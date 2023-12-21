@@ -1,4 +1,4 @@
----
+![image](https://github.com/corentinplumet/corentinplumet.github.io/assets/147926559/1a39d4c3-7ede-409f-b955-98f03c1b7065)---
 layout: home
 title: Covid-eo Games
 subtitle: Analysis on the impact of the Covid-19 lockdown on the interest towards video games
@@ -91,6 +91,8 @@ But is really this attention shift towards video games correlated to the mobilit
 <div align="center">
 <iframe
   src="/assets/img/pearson.html"
+  width = 800
+  height = 400
   style="border:none;"
 ></iframe>
 </div>
@@ -109,18 +111,39 @@ Now that we have seen what is the overall relationship between videogames intere
 
 ###	France – Popularity Boosts Strong in Games
 
-![Branching](/assets/img/france_type.png)
+<div align="center">
+<iframe
+  src="/assets/img/france.html"
+  width = 825
+  height = 800
+  style="border:none;"
+></iframe>
+</div>
  
 The French government implemented a strict lockdown on March 17, 2020, initially planned for 15 days but extended to 55 days until May 11, 2020. As we saw before, the mobility disruption led to increased gaming popularity. During the lockdown, game pageviews surged, but post-intervention, they returned to pre-COVID levels. When considering game genre, we can see that during the lockdown, the vidoe games about Action, Adult, Adventure, Horror, Puzzle, RPG, Sports and Strategy have attracted the most increase. We also note that the Horror games actually remain more popular than pre-lockdown time after the intervention has been lifted, while other games are back to normal popularity just like the pre-covid time. We can specifically look into games about Sports and Multiplayer/Online, after the society is back to normal, the popularities of these two genres of games actually decline, which is reasonable since people tends to play sports offline and meet offline to hang out and have fun.
 
 ### Germany – Less Restrictive, Less Interest in Games
 
-![Branching](/assets/img/germany_type.png)
+<div align="center">
+<iframe
+  src="/assets/img/germany.html"
+  width = 825
+  height = 800
+  style="border:none;"
+></iframe>
+</div>
 
 Compared to its bordering country France, Germany has less restriction on the free move of the people, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia. Overall, there is minor increased popularity in games, but it is obviously milder than that in France. Regarding to different game genres, RPG, Stimulation, Sports and Strategy enjoy the most gain from the lockdown, but if you compared it to other same genres in France, it is definitely a smaller gain.
 
 ### Japan – We Play Games for Passion
 
-![Branching](/assets/img/japan_type.png)
+<div align="center">
+<iframe
+  src="/assets/img/japan.html"
+  width = 825
+  height = 800
+  style="border:none;"
+></iframe>
+</div>
 
 Japan didn't suffer from first wave of the pandemic, leaving thus the mobility disruption at the minimum level. In this case, people enjoy more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government. However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. And the popularity seems to last longer than expected after the intervention is over. We believe there is an explanation that since the mobility is not changed sharply, the popularity in the games can last longer since people are not "forced" to play games, instead they are actually like video games. Therefore, there is some evidence that the game industry in Japan actually benefits from covid in a longer time span.
