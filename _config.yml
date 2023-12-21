@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: ADA
+title: Covid-éo games
 
 # Your name to show in the footer
 author: Corentin PLUMET
@@ -22,10 +22,8 @@ author: Corentin PLUMET
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+    - Dataset: "https://beautifuljekyll.com"
+    
 ################
 # --- Logo --- #
 ################
