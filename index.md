@@ -33,7 +33,7 @@ The plot below presents the moblity evolution between the 2020-02-15 and the 202
 
 For most of the countries, the lockdown is a real break in the mobility pattern. Mobility in france for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less noticeable. This disparity in moblity change motivates the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
 
-  ![Branching](/assets/img/countries_cluster.png)
+![Branching](/assets/img/countries_cluster.png)
 
 There are 3 clear tendancies with very similar pattern. One group, had a very restrictive lockdown with a minium mobility around 70%-80% of what it was before the lockdown. The second group, had a restrictive lockdown with a minium mobility around 45% of what it was before the lockdown. The last group also experienced a lockdown but it was an unrestrictive one, leading to a small decrease in total mobility. 
 
@@ -75,20 +75,21 @@ However, we need to be aware of the limit of these conclusions. What we found is
 
 Now that we have seen what is the overall relationship between videogames interest and the mobility decrease, let's get specific and go deeper into the video games part of the analysis. There are lots of type of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what are the trends amongst all the types. The analysis is performed on one country of each lockdown intensity to capture the lockdown effect in the analysis.
 
-##	France – Popularity Boosts Strong in Games
+###	France – Popularity Boosts Strong in Games
 
 ![Branching](/assets/img/france_type.png)
  
 The French government implemented a strict lockdown on March 17, 2020, initially planned for 15 days but extended to 55 days until May 11, 2020. As we saw before, the mobility disruption led to increased gaming popularity. During the lockdown, game pageviews surged, but post-intervention, they returned to pre-COVID levels. When considering game genre, we can see that during the lockdown, the vidoe games about Action, Adult, Adventure, Horror, Puzzle, RPG, Sports and Strategy have attracted the most increase. We also note that the Horror games actually remain more popular than pre-lockdown time after the intervention has been lifted, while other games are back to normal popularity just like the pre-covid time. We can specifically look into games about Sports and Multiplayer/Online, after the society is back to normal, the popularities of these two genres of games actually decline, which is reasonable since people tends to play sports offline and meet offline to hang out and have fun.
 
-2.	Germany – Less Restrictive, Less Interest in Games
+### Germany – Less Restrictive, Less Interest in Games
+
 Compared to its bordering country France, Germany has less restriction on the free move of the people, while more emphasis on the social distance and mask mandate, giving people more chances to go out. The difference between the French and German government has resulted to different mobility disruption, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia.
 
 ![Branching](/assets/img/germany_type.png)
 
 Compared to its bordering country France, Germany has less restriction on the free move of the people, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia. Overall, there is minor increased popularity in games, but it is obviously milder than that in France. Regarding to different game genres, RPG, Stimulation, Sports and Strategy enjoy the most gain from the lockdown, but if you compared it to other same genres in France, it is definitely a smaller gain.
 
-3.	Japan – We Play Games for Passion
+### Japan – We Play Games for Passion
 
 ![Branching](/assets/img/japan_type.png)
 
