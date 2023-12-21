@@ -78,16 +78,24 @@ Now that we have seen, what is the overall relationship between videogames inter
 
 ##	France – Popularity Boosts Strong in Games
 The French government has announced strict rules to tackle the pandemic. On 16 March 2020, the French president Emmanual Marcon announced the beginning of a lockdown starting from 17 March. The initial 15 days of lockdown has been extended to the surprising 55 days until 11 May 2020. But the restriction has not been fully lifted in French with a travel ban of 100km, cinema closure and border shut-down. It is a rather horrible mobility disruption in France, which in case making the people in French stay at home in longer time, thus making the popularity in game boost. It is obvious that when the lockdown is implemented, the pageviews in games has instantly surge. But after the intervention is lifted, the pageviews have dropped to the normal level as the pre-covid time. Then we look into the pageviews in different game genres as below.
+
+![Branching](/assets/img/france_type.png)
  
 When considering game genre, we can see that during the lockdown, the vidoe games about Action, Adult, Adventure, Horror, Puzzle, RPG, Sports and Strategy have attracted the most increase. And noted that the Horror games actually remain more popular than pre-lockdown time after the intervention has been lifted, while other games are back to normal popularity just like the pre-covid time. We can specifically look into games about Sports and Multiplayer/Online, after the society is back to normal, the popularities of these two genres of games actually decline, which is reasonable since people tends to play sports offline and meet offline to hang out and have fun.
+
 2.	Germany – Less Restrictive, Less Interest in Games
 Compared to its bordering country France, Germany has less restriction on the free move of the people, while more emphasis on the social distance and mask mandate, giving people more chances to go out. The difference between the French and German government has resulted to different mobility disruption, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia.
- 
+
+![Branching](/assets/img/germany_type.png)
+
 Overall, there is minor increased popularity in games, but it is obviously milder than that in France. Regarding to different game genres, RPG, Stimulation, Sports and Strategy enjoy the most gain from the lockdown, but if you compared it to other same genres in France, it is definitely a smaller gain.
+
 3.	Japan – We Play Games for Passion
 The Japanese government actually has a quick response to tackle the spread of the pandemic shortly after the outbreak in China. However, the lockdown in Japan is not at all mandatory. By declaring state of emergency, the government appeals to the people to limit outing activities. And also, thanks to the quick response, Japan actually suffered not so much in the first wave of the pandemic, thus leaving the mobility disruption at the minimum level. In this case, people enjoy more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government.
+
+![Branching](/assets/img/japan_type.png)
  
- However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. And the popularity seems to last longer than expected after the intervention is over. We believe there is an explanation that since the mobility is not changed sharply, the popularity in the games can last longer since people are not "forced" to play games, instead they are actually like video games. Therefore, there is some evident that the game industry in Japan actually benefits from covid in a longer time span.
+However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. And the popularity seems to last longer than expected after the intervention is over. We believe there is an explanation that since the mobility is not changed sharply, the popularity in the games can last longer since people are not "forced" to play games, instead they are actually like video games. Therefore, there is some evident that the game industry in Japan actually benefits from covid in a longer time span.
 Conclusion
 From the visualization, we can see that there is evidence that the mobility has a negative correlation on pageviews on games during the lockdown period. And the popularity on games may actually vary by the lockdown intensity based on the different governments. 
 
