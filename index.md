@@ -16,7 +16,7 @@ To introduce the subject well, we first need to get an idea of what type of game
 <iframe
   src="/assets/img/game genre count.html"
   width = 800
-  height = 400
+  height = 600
   style="border:none;"
 ></iframe>
 </div>
@@ -28,7 +28,7 @@ Also, the following graph plots for each day the total main genre pageviews diff
 <div align="center">
 <iframe
   src="/assets/img/pageviews.html"
-  width = 800
+  width = 1000
   height = 400
   style="border:none;"
 ></iframe>
