@@ -14,13 +14,13 @@ So let's start by discussing about the relation (or not) between the different t
 
 To measure people's interest towards video games we will use the Wikipedia pageviews. Indeed, Wikipedia being the largest and most popular encyclopedia in the world, the pageviews of the website are a good metric to know what people are searching for and thus, are interested in.
 
-To categorize the lockdown of diiferent country, we will use the reported mobility of google from January 2020 until August 2020.  It's like the GPS for lockdown strictness – the bigger the dip in people moving around, the tighter the lockdown grip. Simple enough, right? 
+To categorize the lockdown of diiferent country, we will use the reported mobility of google from January 2020 until August 2020.  It's like the GPS for lockdown strictness – the bigger the dip in people moving around, the tighter the lockdown grip. 
 
 Our study focus extends to countries where a singular language predominantly prevails. This way we can link accurately Wikipedia page written in a specific language to a specific country. For example, we can assume that only swedish people are using wikipedia pages written in swedish.
 
 ## Mobility pattern
 
-The plot below present the moblity evolution between the 2020-02-15 and the 2020-08-25, taking as 0 the mobility on the first day of the interval. We got data for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. Also the 2 red lines represent the 2 dates were we can statistically consider a mobility drop and then a normality comeback.   
+The plot below presents the moblity evolution between the 2020-02-15 and the 2020-08-25, taking as 0 the mobility on the first day of the interval. We got data for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. Also the 2 red lines represent the 2 dates were we can statistically consider a mobility drop and then a normality comeback.   
 
 <div align="center">
 <iframe
@@ -31,7 +31,7 @@ The plot below present the moblity evolution between the 2020-02-15 and the 2020
 ></iframe>
 </div>
 
-For most of the countries, the lockdown is really a break in the mobility pattern. Mobility in france for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less likely noticeable. This disparity in moblity change motivate the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
+For most of the countries, the lockdown is a real break in the mobility pattern. Mobility in france for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less noticeable. This disparity in moblity change motivates the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
 
 ![Branching](/assets/img/countries_cluster.png)
 
@@ -67,8 +67,27 @@ According to this graph, the intensity of lockdown doesn't have an impact on the
 
 What is interesting with this graph is that we can note that the countries with a very low and not significant correlation are the Norway, Sweden, Finland and Denmark, which are all the Scandinavian countries. It means that even though these countries experienced an increase of the video games page views percentage during the lockdown period (Norway and Denmark especially because Sweden experienced a very low increase and Finaland no increase at all) it's not related to the mobility decrease. For Denmark and Norway, the increase in views on wikipedia pages related to video games during the lockdown is simply part of an overall increase, not necessarily linked to the drop in moblity. That's why we notice an increase of videogames related pageviews during the lockdown but no correlation with the drop in mobility.
 
-# Conclusion
-
 Therefore, overall, 3 conclusions can be drawn from this analysis. First, the mobility decrease amount, and so the intensity of lockdown is indeed a factor that drives the attention shift towards videogames: the less the people are moving, the more they spend time playing videogames and doing research about it. The second statement is an extension of the first one in the sense that the mobility decrease intensity doesn't impact its correlation with the attention shift. A mobility decrease, no metter its importance, will lead to a proportionnal increase in video games interest. The third statement is an exception for the Scandinavian countries. These countries may have experienced an increase in videogames research proportionnally speaking, but it's not related to the mobility. 
 
 However, we need to be aware of the limit of these conclusions. What we found is a correlation relation, not causation one. It means that even if it seems like the drop in mobility may be the cause of the attention increase towards video games, maybe an other factor linked to the covid-19 that drives the increase in attention.
+
+# What about specific types of video games ? 
+
+Now that we have seen, what is the overall relationship between videogames interest and the mobility decrease, let's get specific and go deeper into the video games part of the analysis. There are lots of type of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre we can try to see what are the trends amongst all the types. The analysis is performed on one country of each lockdown intensity to capture the lockdown effect in the analysis.
+
+
+##	France – Popularity Boosts Strong in Games
+The French government has announced strict rules to tackle the pandemic. On 16 March 2020, the French president Emmanual Marcon announced the beginning of a lockdown starting from 17 March. The initial 15 days of lockdown has been extended to the surprising 55 days until 11 May 2020. But the restriction has not been fully lifted in French with a travel ban of 100km, cinema closure and border shut-down. It is a rather horrible mobility disruption in France, which in case making the people in French stay at home in longer time, thus making the popularity in game boost. It is obvious that when the lockdown is implemented, the pageviews in games has instantly surge. But after the intervention is lifted, the pageviews have dropped to the normal level as the pre-covid time. Then we look into the pageviews in different game genres as below.
+ 
+When considering game genre, we can see that during the lockdown, the vidoe games about Action, Adult, Adventure, Horror, Puzzle, RPG, Sports and Strategy have attracted the most increase. And noted that the Horror games actually remain more popular than pre-lockdown time after the intervention has been lifted, while other games are back to normal popularity just like the pre-covid time. We can specifically look into games about Sports and Multiplayer/Online, after the society is back to normal, the popularities of these two genres of games actually decline, which is reasonable since people tends to play sports offline and meet offline to hang out and have fun.
+2.	Germany – Less Restrictive, Less Interest in Games
+Compared to its bordering country France, Germany has less restriction on the free move of the people, while more emphasis on the social distance and mask mandate, giving people more chances to go out. The difference between the French and German government has resulted to different mobility disruption, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia.
+ 
+Overall, there is minor increased popularity in games, but it is obviously milder than that in France. Regarding to different game genres, RPG, Stimulation, Sports and Strategy enjoy the most gain from the lockdown, but if you compared it to other same genres in France, it is definitely a smaller gain.
+3.	Japan – We Play Games for Passion
+The Japanese government actually has a quick response to tackle the spread of the pandemic shortly after the outbreak in China. However, the lockdown in Japan is not at all mandatory. By declaring state of emergency, the government appeals to the people to limit outing activities. And also, thanks to the quick response, Japan actually suffered not so much in the first wave of the pandemic, thus leaving the mobility disruption at the minimum level. In this case, people enjoy more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government.
+ 
+ However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. And the popularity seems to last longer than expected after the intervention is over. We believe there is an explanation that since the mobility is not changed sharply, the popularity in the games can last longer since people are not "forced" to play games, instead they are actually like video games. Therefore, there is some evident that the game industry in Japan actually benefits from covid in a longer time span.
+Conclusion
+From the visualization, we can see that there is evidence that the mobility has a negative correlation on pageviews on games during the lockdown period. And the popularity on games may actually vary by the lockdown intensity based on the different governments. 
+
