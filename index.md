@@ -4,10 +4,6 @@ title: Covid-eo Games
 subtitle: Analysis on the impact of the Covid-19 lockdown on the interest towards video games
 ---
 
----
-layout: default
----
-
 # Lockdown and overall video games interest: a relation ?
 
 In this part, we are going to discuss about the relation (or not) between the different type of lockdown around the world, and their possible impact on people's interest for video games.
