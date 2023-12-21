@@ -83,8 +83,6 @@ The French government implemented a strict lockdown on March 17, 2020, initially
 
 ### Germany – Less Restrictive, Less Interest in Games
 
-Compared to its bordering country France, Germany has less restriction on the free move of the people, while more emphasis on the social distance and mask mandate, giving people more chances to go out. The difference between the French and German government has resulted to different mobility disruption, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia.
-
 ![Branching](/assets/img/germany_type.png)
 
 Compared to its bordering country France, Germany has less restriction on the free move of the people, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia. Overall, there is minor increased popularity in games, but it is obviously milder than that in France. Regarding to different game genres, RPG, Stimulation, Sports and Strategy enjoy the most gain from the lockdown, but if you compared it to other same genres in France, it is definitely a smaller gain.
