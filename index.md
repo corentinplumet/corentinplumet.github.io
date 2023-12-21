@@ -55,13 +55,20 @@ We can see that after the mobility drop, it seems that certain countries experie
 
 We just saw in the previous part that there might be an increase in the proportion of views for video games related paages after the mobility drop. To get a representation of this increase, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
 
-![Branching](/assets/img/change_in_attention_plot.png)
+![Branching](/assets/img/medianpercentage.png)
 
 We can see that there is clear tendancy of increase in attention toward video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games amongst all the wikipedia pageviews. Also, with this graph it's clear that the intensity of lockdown had an impact on the attention shift towards videogames. Indeed, the countries with an unrestrive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also seems like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less likely to be significant than with the unrestictrive lockdown.
 
 But is really this attention shift towards video games correlated to the mobility of people inside this country ? To answer this question, we can plot the correlation coefficient between the mobility time series and the wikipedia pegeviews time series. We get this plot:
 
-![Branching](/assets/img/correlation_coeff_plot.png)
+<div align="center">
+<iframe
+  src="/assets/img/pearson.html"
+  height = 825
+  width = 800
+  style="border:none;"
+></iframe>
+</div>
 
 According to this graph, the intensity of lockdown doesn't have an impact on the correlation value. Indeed, Japn and Korea that belongs to the group of unrestrictive lockdown have a high negative correlation that is statistically significant, as the the countries that belongs to the other groups.
 
