@@ -23,7 +23,7 @@ To introduce the subject well, we first need to get an idea of what type of game
 
 The most prevalent genre in the dataset is "Action”. This suggests that action games are highly popular or widely produced. The dataset encompasses a diverse range of genres, including sports, role-playing games (RPG), adventure, science fiction, puzzle, strategy, simulation, and more. This diversity indicates a variety of gaming preferences and interests, which aligns with the current development of the worldwide game industry.
 
-Also, the following graph plots for each day the total main genre pageviews different depending on the language. from this graph we can already see trends in the influence of periods, languages and themes on wikipedia traffic.
+Also, the following graph plots for each day the total main genre pageviews different depending on the language. from this graph we can already see trends in the influence of periods, languages and themes on wikipedia traffic. Do not hesitate to play a lot with this graph!
 
 <div align="center">
 <iframe
