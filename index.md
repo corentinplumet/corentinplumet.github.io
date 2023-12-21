@@ -15,7 +15,7 @@ To introduce the subject well, we first need to get an idea of what type of game
 <div align="center">
 <iframe
   src="/assets/img/game genre count.html"
-  width = 800
+  width = 900
   height = 550
   style="border:none;"
 ></iframe>
