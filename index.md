@@ -4,6 +4,10 @@ layout: default
 
 # Lockdown and overall video games interest: a relation ?
 
+<div style='text-align: center;'>
+  Ceci est un test
+</div>
+
 In this part, we are going to discuss about the relation (or not) between the different type of lockdown around the world, and their possible impact on people's interest for video games.
 
 To measure people's interest towards video games we will use the Wikipedia pageviews. Indeed, Wikipedia being the largest and most popular encyclopedia in the world, the pageviews of the website are a good metric to know what people are searching for and thus, are interested in.
