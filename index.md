@@ -4,9 +4,11 @@ title: Covid-eo Games
 subtitle: Analysis on the impact of the Covid-19 lockdown on the interest towards video games
 ---
 
+Have you ever wondered if the COVID-19 had on you more impact than just the sudden urge to become an expert in Zoom? Or did you spend the most of your time trainig to become the last survivor of the fortnite Island? If the answer is yes this article is for you because we are going to reveal the mysterious connection between the pandemic and the the video games Industry. It's about to get real (or at least virtually real)!
+
 # Lockdown and overall video games interest: a relation ?
 
-In this part, we are going to discuss about the relation (or not) between the different type of lockdown around the world, and their possible impact on people's interest for video games.
+In this part, we are going to discuss about the relation (or not) between the different type of lockdown around the world, and their possible impact on people's interest for video games. 
 
 To measure people's interest towards video games we will use the Wikipedia pageviews. Indeed, Wikipedia being the largest and most popular encyclopedia in the world, the pageviews of the website are a good metric to know what people are searching for and thus, are interested in.
 
