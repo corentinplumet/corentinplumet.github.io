@@ -10,13 +10,13 @@ This article contains lots interactive visualizations. Don't forget to use them 
 
 # Lockdown and overall video games interest: a relation ?
 
-In this part, we are going to discuss about the relation (or not) between the different type of lockdown around the world, and their possible impact on people's interest for video games. 
+So let's start by discussing about the relation (or not) between the different type of lockdown around the world, and their possible impact on people's interest for video games. 
 
 To measure people's interest towards video games we will use the Wikipedia pageviews. Indeed, Wikipedia being the largest and most popular encyclopedia in the world, the pageviews of the website are a good metric to know what people are searching for and thus, are interested in.
 
-To categorize the lockdown of diiferent country, we will use the reported mobility of google from January 2020 until August 2020. We state that the highest the decrease in mobility, the more strict the lockdown is. 
+To categorize the lockdown of diiferent country, we will use the reported mobility of google from January 2020 until August 2020.  It's like the GPS for lockdown strictness – the bigger the dip in people moving around, the tighter the lockdown grip. Simple enough, right? 
 
-The countries with which we chose to do the analysis speak a language that is mainly speaken only in this country. This way we can link accurately Wikipedia page written in a specific language to a specific country. For example, we can assume that only swedish people are using wikipedia pages written in swedish.
+Our study focus extends to countries where a singular language predominantly prevails. This way we can link accurately Wikipedia page written in a specific language to a specific country. For example, we can assume that only swedish people are using wikipedia pages written in swedish.
 
 ## Mobility pattern
 
