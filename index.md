@@ -140,8 +140,8 @@ Compared to its bordering country France, Germany has less restriction on the fr
 <div align="center">
 <iframe
   src="/assets/img/japan.html"
-  width = 50%
-  height = 50%
+  width = 825
+  height = 800
   style="border:none;"
 ></iframe>
 </div>
