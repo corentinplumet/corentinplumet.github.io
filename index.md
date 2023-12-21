@@ -1,4 +1,4 @@
-![image](https://github.com/corentinplumet/corentinplumet.github.io/assets/147926559/1a39d4c3-7ede-409f-b955-98f03c1b7065)---
+---
 layout: home
 title: Covid-eo Games
 subtitle: Analysis on the impact of the Covid-19 lockdown on the interest towards video games
