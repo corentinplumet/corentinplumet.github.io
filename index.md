@@ -87,8 +87,6 @@ But is really this attention shift towards video games correlated to the mobilit
 <div align="center">
 <iframe
   src="/assets/img/pearson.html"
-  height = 825
-  width = 800
   style="border:none;"
 ></iframe>
 </div>
