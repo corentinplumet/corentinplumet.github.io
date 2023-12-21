@@ -18,8 +18,6 @@ The plot below present the moblity evolution between the 2020-02-15 and the 2020
 
 <iframe
   src="/assets/img/output.html"
-  height="750"
-  width="700"
   style="border:none;"
 ></iframe>
 
