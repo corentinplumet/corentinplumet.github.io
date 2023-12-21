@@ -28,7 +28,7 @@ Also, the following graph plots for each day the total main genre pageviews diff
 <div align="center">
 <iframe
   src="/assets/img/pageviews.html"
-  width = 1000
+  width = 800
   height = 400
   style="border:none;"
 ></iframe>
