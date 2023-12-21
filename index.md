@@ -34,7 +34,7 @@ The plot below presents the moblity evolution between the 2020-02-15 and the 202
 For most of the countries, the lockdown is a real break in the mobility pattern. Mobility in france for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less noticeable. This disparity in moblity change motivates the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
 
 <div align="center">
-![Branching](/assets/img/countries_cluster.png)
+  ![Branching](/assets/img/countries_cluster.png)
 </div>
 
 There are 3 clear tendancies with very similar pattern. One group, had a very restrictive lockdown with a minium mobility around 70%-80% of what it was before the lockdown. The second group, had a restrictive lockdown with a minium mobility around 45% of what it was before the lockdown. The last group also experienced a lockdown but it was an unrestrictive one, leading to a small decrease in total mobility. 
