@@ -17,7 +17,7 @@ The countries with which we chose to do the analysis speak a language that is ma
 The plot below present the moblity evolution between the 2020-02-15 and the 2020-08-25, taking as 0 the mobility on the first day of the interval. We got data for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. Also the 2 red lines represent the 2 dates were we can statistically consider a mobility drop and then a normality comeback.   
 
 <iframe
-  src="output.html"
+  src="/assets/img/output.html"
   height="750"
   width="700"
   style="border:none;"
@@ -25,7 +25,7 @@ The plot below present the moblity evolution between the 2020-02-15 and the 2020
 
 For most of the countries, the lockdown is really a break in the mobility pattern. Mobility in france for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less likely noticeable. This disparity in moblity change motivate the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
 
-![Branching](countries_cluster.png)
+![Branching](/assets/img/countries_cluster.png)
 
 There are 3 clear tendancies with very similar pattern. One group, had a very restrictive lockdown with a minium mobility around 70%-80% of what it was before the lockdown. The second group, had a restrictive lockdown with a minium mobility around 45% of what it was before the lockdown. The last group also experienced a lockdown but it was an unrestrictive one, leading to a small decrease in total mobility. 
 
@@ -37,23 +37,23 @@ During the lockdown, people were most od the time at home, and thus got more fre
 
 The following figure shows therefore the percentage of wikipedia pageviews related to video games in the same countries we have in the mobility part.
 
-![Branching](pageviews.png)
+![Branching](/assets/img/pageviews.png)
 
 We can see that after the mobility drop, it seems that certain countries experienced a rise in the attention toward video games. To have a better understanding of these curves, we can group them following the clustering we did previously in the mobility context.
 
-![Branching](pageviews_cluster.png)
+![Branching](/assets/img/pageviews_cluster.png)
 
 ## Correlation ?
 
 We just saw in the previous part that there might be an increase in the proportion of views for video games related paages after the mobility drop. To get a representation of this increase, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
 
-![Branching](change_in_attention_plot.png)
+![Branching](/assets/img/change_in_attention_plot.png)
 
 We can see that there is clear tendancy of increase in attention toward video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games amongst all the wikipedia pageviews. Also, with this graph it's clear that the intensity of lockdown had an impact on the attention shift towards videogames. Indeed, the countries with an unrestrive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also seems like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less likely to be significant than with the unrestictrive lockdown.
 
 But is really this attention shift towards video games correlated to the mobility of people inside this country ? To answer this question, we can plot the correlation coefficient between the mobility time series and the wikipedia pegeviews time series. We get this plot:
 
-![Branching](correlation_coeff_plot.png)
+![Branching](/assets/img/correlation_coeff_plot.png)
 
 According to this graph, the intensity of lockdown doesn't have an impact on the correlation value. Indeed, Japn and Korea that belongs to the group of unrestrictive lockdown have a high negative correlation that is statistically significant, as the the countries that belongs to the other groups.
 
