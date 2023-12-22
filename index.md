@@ -67,21 +67,21 @@ Now that we have grouped the countries according to their lockdown intensity, we
 
 During the lockdown, people were most of the time at home, and thus had more free time than usual, which translates into a higher traffic on the wikipedia website overall. Thus, we are not using the absolute value of the pageviews, but the percentage of views on video games related pages amongst all the wikipedia traffic.
 
-The following figure shows therefore the percentage of wikipedia pageviews related to video games in the same countries we have in the mobility part.
+The following figure shows therefore the percentage of wikipedia pageviews related to video games for the same countries we have in the mobility part.
 
 ![Branching](/assets/img/pageviews.png)
 
-We can see that after the mobility drop, it seems that certain countries experienced a rise in the attention toward video games. To have a better understanding of these curves, we can group them following the clustering we did previously in the mobility context.
+We can see that after the mobility drop, it seems that certain countries experienced a rise in the attention towards video games. To have a better understanding of these curves, we can group them following the clustering we did previously in the mobility context.
 
 ![Branching](/assets/img/pageviews_cluster.png)
 
 ## Correlation ?
 
-We just saw in the previous part that there might be an increase in the proportion of views for video games related paages after the mobility drop. To get a representation of this increase, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
+We just saw in the previous part that there might be an increase in the proportion of views for video games related pages after the mobility drop. To get a representation of this increase, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
 
 ![Branching](/assets/img/medianpercentage.png)
 
-We can see that there is clear tendancy of increase in attention toward video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games amongst all the wikipedia pageviews. Also, with this graph it's clear that the intensity of lockdown had an impact on the attention shift towards videogames. Indeed, the countries with an unrestrive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also seems like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less likely to be significant than with the unrestictrive lockdown.
+We can see that there is a clear tendancy of increase in attention towards video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games amongst all the wikipedia pageviews. Also, with this graph it's clear that the intensity of lockdown had an impact on the attention shift towards videogames. Indeed, the countries with an unrestrictive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also seems like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less likely to be significant than with the unrestrictive lockdown.
 
 <div align="center">
 <iframe
