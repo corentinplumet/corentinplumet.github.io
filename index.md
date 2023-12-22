@@ -44,7 +44,7 @@ Our study extends to countries where a singular language predominantly prevails.
 
 ## Mobility pattern
 
-The plot below presents the moblity evolution between the 2020-02-15 and the 2020-08-25, taking as 0 the mobility on the first day of the interval. We got data for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. The 2 red lines represent the 2 dates were we can statistically consider a mobility drop and then a normality comeback. These dates are really close to the beginning and ending of moblity restrictions (1 or 2 days away). Also, a smoothed curve of each mobility signal can be displayed by clicking on the button at the bottom of the plot.  
+The plot below presents the evolution of moblity between the 15th of February 2020 and the 25th of August 2020, taking as 0 the mobility on the first day of the interval. We have data for France, Denmark, Germany, Italy, the Netherlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. The 2 red lines represent the dates were we can statistically consider a mobility drop and then a normality comeback. These dates are really close to the start and finish of the moblity restrictions (1 or 2 days delay). Also, a smoothened curve of each mobility signal can be displayed by clicking on the button at the bottom of the plot.  
 
 <div align="center">
 <iframe
@@ -55,29 +55,29 @@ The plot below presents the moblity evolution between the 2020-02-15 and the 202
 ></iframe>
 </div>
 
-For most of the countries, the lockdown is a real break in the mobility pattern. Mobility in France for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less noticeable. This disparity in moblity change motivates the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
+For most of the countries, the lockdown is a real anormaly in the mobility pattern. Mobility in France for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less noticeable. This disparity in moblity change motivates the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries as one group but we need to group them according to what we will call their "lockdown Intensity".
 
 ![Branching](/assets/img/countries_cluster.png)
 
-There are 3 clear tendancies with very similar pattern. One group, had a very restrictive lockdown with a minium mobility around 75% of what it was before the lockdown. The second group, had a restrictive lockdown with a minium mobility around 45% of what it was before the lockdown. The last group also experienced a lockdown but it was an unrestrictive one, leading to a small decrease in total mobility. 
+There are 3 clear tendancies with very similar patterns. One group, had a very restrictive lockdown with a minimum mobility of around 75% of what it was before the lockdown. The second group, had a restrictive lockdown with a minimum mobility of around 45% of what it was before the lockdown. And the last group also experienced a lockdown, but it was an unrestrictive one, leading to a small decrease in total mobility. 
 
 ## Attention towards video games
 
-Now that we have grouped the countries according to their lockdown intensity, we can get the measure of the attention shift towards video games.
+Now that we have grouped the countries according to their lockdown intensity, we will get the measure of the attention shift towards video games.
 
-During the lockdown, people were most of the time at home, and thus had more free time than usual, which translates into a higher traffic on the wikipedia website overall. Thus, we are not using the absolute value of the pageviews, but the percentage of views on video games related pages amongst all the wikipedia traffic.
+During the lockdown, people were most of the time at home, and thus had more leisure time than usual, which translates into a higher traffic on the Wikipedia website overall. For this reason, we will not be using the absolute value of the pageviews, but rather the percentage of views on video games related pages amongst all the Wikipedia traffic.
 
-The following figure shows therefore the percentage of wikipedia pageviews related to video games for the same countries we have in the mobility part.
+To fulfill this purpose, we will be using the percentage of pageviews for video games, in proportion to the entire trafic on the Wikipedia website. The following figure shows the percentage of Wikipedia pageviews related to video games for the same countries we have in the mobility part.
 
 ![Branching](/assets/img/pageviews.png)
 
-We can see that after the mobility drop, it seems that certain countries experienced a rise in the attention towards video games. To have a better understanding of these curves, we can group them following the clustering we did previously in the mobility context.
+After the mobility drop, it seems that certain countries experienced a rise in attention towards video games. To have a better understanding of the meaning of these curves, we will group them following the "lockdown intensity" shown previously in the mobility context.
 
 ![Branching](/assets/img/pageviews_cluster.png)
 
-## Correlation ?
+## But is there a correlation...
 
-We just saw in the previous part that there might be an increase in the proportion of views for video games related pages after the mobility drop. To get a representation of this increase, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
+In the previous part, we saw that there might be an increase in the proportion of views for video games related pages after the mobility drop. To get a representation of this increase, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
 
 <p align="center">
   <img src="/assets/img/medianpercentage.png" />
