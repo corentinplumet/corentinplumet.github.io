@@ -172,8 +172,8 @@ Looking at the initial naive analysis, we noted that strategy games were uniform
 <div align="center">
 <iframe
   src="/assets/img/navie.html"
-  width = 800
-  height = 800
+  width = 1000
+  height = 900
   style="border:none;"
 ></iframe>
 </div>
