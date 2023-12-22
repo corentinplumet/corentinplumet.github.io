@@ -34,17 +34,17 @@ Also, the following graph plots for each day the total views of pages related to
 
 # Lockdown and overall video games interest: a relation ?
 
-In this part, we are going to discuss the relation (or not) between the different type of lockdown around the world, and their possible impact on people's interest for video games. 
+In this part, we are going to discuss the possinle relation between the different type of lockdown around the world, and their impact on people's interest for video games. 
 
 To measure people's interest towards video games we will use the Wikipedia pageviews. Indeed, Wikipedia being the largest and most popular encyclopedia in the world, the pageviews of the website are a good metric to know what people are searching for and thus, are interested in.
 
-To categorize the lockdown of diiferent country, we will use the reported mobility of google from January 2020 until August 2020.  It's like the GPS for lockdown strictness – the bigger the dip in people moving around, the tighter the lockdown grip. 
+To categorize the lockdown of different country, we will use the reported mobility of google from January 2020 until August 2020.  It's like the GPS for lockdown strictness – the bigger the dip in people moving around, the tighter the lockdown grip. 
 
 Our study focus extends to countries where a singular language predominantly prevails. This way we can link accurately Wikipedia page written in a specific language to a specific country. For example, we can assume that only swedish people are using wikipedia pages written in swedish.
 
 ## Mobility pattern
 
-The plot below presents the moblity evolution between the 2020-02-15 and the 2020-08-25, taking as 0 the mobility on the first day of the interval. We got data for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. The 2 red lines represent the 2 dates were we can statistically consider a mobility drop and then a normality comeback. Also, a smoothed curve of each mobility signal can be displayed by clicking on the button at the bottom of the plot.  
+The plot below presents the moblity evolution between the 2020-02-15 and the 2020-08-25, taking as 0 the mobility on the first day of the interval. We got data for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. The 2 red lines represent the 2 dates were we can statistically consider a mobility drop and then a normality comeback. These dates are really close to the beginning and ending of moblity restrictions (1 or 2 days away). Also, a smoothed curve of each mobility signal can be displayed by clicking on the button at the bottom of the plot.  
 
 <div align="center">
 <iframe
@@ -55,17 +55,17 @@ The plot below presents the moblity evolution between the 2020-02-15 and the 202
 ></iframe>
 </div>
 
-For most of the countries, the lockdown is a real break in the mobility pattern. Mobility in france for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less noticeable. This disparity in moblity change motivates the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
+For most of the countries, the lockdown is a real break in the mobility pattern. Mobility in France for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less noticeable. This disparity in moblity change motivates the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
 
 ![Branching](/assets/img/countries_cluster.png)
 
-There are 3 clear tendancies with very similar pattern. One group, had a very restrictive lockdown with a minium mobility around 70%-80% of what it was before the lockdown. The second group, had a restrictive lockdown with a minium mobility around 45% of what it was before the lockdown. The last group also experienced a lockdown but it was an unrestrictive one, leading to a small decrease in total mobility. 
+There are 3 clear tendancies with very similar pattern. One group, had a very restrictive lockdown with a minium mobility around 75% of what it was before the lockdown. The second group, had a restrictive lockdown with a minium mobility around 45% of what it was before the lockdown. The last group also experienced a lockdown but it was an unrestrictive one, leading to a small decrease in total mobility. 
 
 ## Attention towards video games
 
 Now that we have grouped the countries according to their lockdown intensity, we can get the measure of the attention shift towards video games.
 
-During the lockdown, people were most od the time at home, and thus got more free time than usual, which translate into a higher traffic on the wikipedia website overall. Thus, we are not using the absolute value of the pageviews, but the percentage of views on video games related pages amongst all the wikipedia traffic.
+During the lockdown, people were most of the time at home, and thus had more free time than usual, which translates into a higher traffic on the wikipedia website overall. Thus, we are not using the absolute value of the pageviews, but the percentage of views on video games related pages amongst all the wikipedia traffic.
 
 The following figure shows therefore the percentage of wikipedia pageviews related to video games in the same countries we have in the mobility part.
 
