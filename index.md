@@ -310,7 +310,7 @@ Next, we're embarking on a journey to analyze 20 beloved board games. Our missio
 
 This investigation offers a captivating look into how board games have integrated into our daily lives during unprecedented times. In the next section of our study, we will embark on an exploration of 20 popular board games. Our objective? To decode the fluctuating patterns of interest surrounding these games. By meticulously tracking the total number of views these fan-favorite board games received on Wikipedia, we anticipate uncovering a wealth of intriguing insights. Prepare to be fascinated as we reveal the unique aspects and hidden stories behind these beloved gaming classics!
 
-![Branching](/assets/img/testd.png)
+![Branching](/assets/img/testbd.png)
 
 This compelling plot reveals a remarkable story, particularly evident during the COVID-19 era: the resurgent popularity of board games. Amidst these unprecedented times, board games captured the public's imagination, eclipsing the general interest in Wikipedia's diverse topics. 
 
