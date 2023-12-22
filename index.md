@@ -150,9 +150,59 @@ Now, our study will be particularly focused on four genres: Action, Adult, Strat
 
 Looking at the initial naive analysis, we noted that strategy games were uniformly popular across all three countries, with Japan showing the highest uptick. Action games presented a mixed picture: France saw considerable growth, Japan a modest rise, and Germany a slight drop. Adult games followed a similar pattern to action games, but with less variation between countries. Japan, in particular, showed a significant interest in adult games, which was not mirrored in action games. Miscellaneous games stood out, showing substantial increases in pageviews across almost all countries, with Germany showing a notable rise, which was not observed in the other genres.
 
+<div align="center">
+<iframe
+  src="/assets/img/q4_naive_analysis.html"
+  width = 800
+  height = 800
+  style="border:none;"
+></iframe>
+</div>
+
 ### Causal impact analysis
 
 To refine our understanding, we applied a Google causal impact analysis and adjusted pageviews by the total Wikipedia views in respective languages. This adjustment revealed significant shifts, indicating that overall Wikipedia traffic was a factor to be considered.
 
-For strategy games, the post-adjustment analysis indicated a clear preference in Japan and Germany during the pandemic. In contrast, the impact on action games was much more pronounced in France, with the effects in Japan and Germany not being statistically significant.
+For strategy games, the post-adjustment analysis indicated a clear preference in Japan and Germany during the pandemic. In contrast, the impact on action games was much more pronounced in France, with the effects in Japan and Germany not being statistically significant. French players showed a marked preference for adult games, whereas German players seemed to have little interest in this genre. Miscellaneous games, on the other hand, showed a compelling trend: Japan had a minimal relative impact, while Germany demonstrated a strong affinity for this category.
+
+<div align="center">
+<iframe
+  src="/assets/img/Stratage.html"
+  width = 800
+  height = 800
+  style="border:none;"
+></iframe>
+</div>
+
+<div align="center">
+<iframe
+  src="/assets/img/Action.html"
+  width = 800
+  height = 800
+  style="border:none;"
+></iframe>
+</div>
+
+<div align="center">
+<iframe
+  src="/assets/img/Adult.html"
+  width = 800
+  height = 800
+  style="border:none;"
+></iframe>
+</div>
+
+<div align="center">
+<iframe
+  src="/assets/img/Miscellaneous.html"
+  width = 800
+  height = 800
+  style="border:none;"
+></iframe>
+</div>
+
+Summarizing, French and Italian gamers shared similar tastes during the pandemic, with the French leaning towards action and adult games, while Italians showed less interest in adult games. Japanese gamers favored strategy and adult games and showed little enthusiasm for other genres. Germans appeared to prefer strategy and miscellaneous games, with a significant inclination towards the latter.
+
+To probe the reasons behind these preferences, we considered societal openness to sexual content by referencing Pornhub viewership rankings. Given the similar population sizes of France, Germany, and Italy, and Japan's slightly higher population, these rankings provide insight into national attitudes towards sex-related topics. France's higher ranking compared to Italy and Germany aligns with the interest in adult games during the pandemic. Interestingly, despite Germany's larger population, it has lower Pornhub traffic than Italy, further correlating with our gaming data.
+
 
