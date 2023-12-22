@@ -163,7 +163,7 @@ Compared to its bordering country France, Germany has less restriction on the fr
 
 Japan didn't suffer from first wave of the pandemic, leaving thus the mobility disruption at the minimum level. In this case, people enjoyed more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government. However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. The Anime-theme games, which are supposed to be popular in Japan, have surprisingly not attained enough interest gain during the lockdown period. Also the popularity seems to last longer than expected after the intervention is over. We believe the explanation to be the follwing: since the mobility did not changed sharply, the popularity in the games can last longer since people are not "forced" to play games. Instead they appreciate the new free time without get a "video game overdose". Therefore, there is some evidence that the game industry in Japan actually benefits from covid in a longer time span.
 
-## Le's dig deeper
+## Let's dig deeper
 
 Our previous findings reveal that while overall interest in gaming surged in many countries, the pattern wasn't uniform across all genres or regions. Some genres saw a spike in certain countries, whereas others experienced a decline within the same borders. This suggests that gaming preferences might vary from country to country, influenced by numerous factors.
 
