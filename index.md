@@ -116,11 +116,9 @@ We can see a strange effect. The mobility curve and the video games attention cu
 
 # What about specific types of video games ? 
 
-Now that we have seen what is the overall relationship between videogames interest and the mobility decrease, let's get specific and go deeper into the video games part of the analysis. There are lots of type of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what are the trends amongst all the types. The analysis is performed on one country of each lockdown intensity to capture the lockdown effect in the analysis.
+Now that we have seen what is the overall relationship between videogames interest and the mobility decrease, let's get specific and dive further in the video games part of the analysis. There are many type of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what are the trends amongst all the types. The following part analyse French, Japanese, and German growth in pageviews across gaming categories. These four nations are becoming our focal point due to their distinct lockdown measures, geographic placement, and cultural differences, offering a rich ground for analysis.
 
 ## Overview
-
-The following part analyse French, Japanese, and German growth in pageviews across gaming categories. These four nations are becoming our focal point due to their distinct lockdown measures, geographic placement, and cultural differences, offering a rich ground for analysis.
 
 ###	France – Popularity Boosts Strong in Games
 
