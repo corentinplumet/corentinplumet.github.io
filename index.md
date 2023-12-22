@@ -38,7 +38,7 @@ In this part, we are going to discuss the relation between the different types o
 
 To measure people's interest towards video games we will use the Wikipedia pageviews. Wikipedia being the largest and most popular encyclopedia in the world, the pageviews on the website are a good metric to know what people are searching for and thus, are interested in.
 
-To categorize the lockdown of different country, we will use the reported mobility of Google from January 2020 until August 2020.  It's like the GPS for lockdown strictness – the less people are moving around, the tighter the lockdown grip. 
+To categorize the lockdown of different country, we will use the reported mobility of Google from January 2020 until August 2020.  It's like the GPS for lockdown strictness – the biggest the decrease in mobility, the tighter the lockdown grip. 
 
 Our study extends to countries where a singular language predominantly prevails. This way we will link accurately Wikipedia pages written in a specific language to a specific country. For example, using the views on pages in Swedish will give us a way more accurate estimation of people's interests in Sweden than if we were to do the same thing with English.
 
@@ -55,7 +55,7 @@ The plot below presents the evolution of moblity between the 15th of February 20
 ></iframe>
 </div>
 
-For most of the countries, the lockdown is a real anormaly in the mobility pattern. Mobility in France for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less noticeable. This disparity in moblity change motivates the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries as one group but we need to group them according to what we will call their "lockdown Intensity".
+For most of the countries, the lockdown is a real anormaly in the mobility pattern. Mobility in France for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less noticeable. This disparity in moblity change motivates the clustering of countries. If we want to see if the lockdown had an impact on the attention towards video games, we can't consider all the countries as one group but we need to group them according to what we will call their "lockdown Intensity".
 
 ![Branching](/assets/img/countries_cluster.png)
 
@@ -83,7 +83,7 @@ In the previous part, we saw that there might be an increase in the proportion o
   <img src="/assets/img/medianpercentage.png" />
 </p>
 
-There is a clear tendancy of increase in attention towards video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games on Wikipedia. And with this graph, it is clear that the intensity of lockdown had an impact on the attention shift towards videogames. The countries with an unrestrictive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also looks like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less significant than the one with the unrestrictive lockdown group.
+There is a clear tendancy of increase in attention towards video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games on Wikipedia. And with this graph, it is clear that the intensity of lockdown had an impact on the attention shift towards video games. The countries with an unrestrictive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also looks like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less significant than the one with the unrestrictive lockdown group.
 
 <div align="center">
 <iframe
@@ -106,7 +106,7 @@ According to this graph, the intensity of lockdown doesn't have an impact on the
 
 What is interesting with this graph is that it reveals that the countries with a very low and not significant correlation are Norway, Sweden, Finland and Denmark, which all are Scandinavian countries. It means that even though these countries experienced an increase of the video games page views percentage during the lockdown period (Norway and Denmark especially because Sweden experienced a very low increase and Finland no increase at all), it's not related to the mobility decrease. For Denmark and Norway, the increase in views on Wikipedia pages related to video games during the lockdown is simply part of an overall increase, not necessarily linked to the drop in moblity. That's why we notice an increase of video games related pageviews during the lockdown but no correlation with the drop in mobility.
 
-From all this analysis, 3 conclusions can be drawn: First, the amount of decrease in mobility and the intensity of the lockdown are factors that drive the attention shift towards video games: the less the people are moving, the more they spend time playing video games and doing research about it. The second statement is an extension of the first one, in the sense that the mobility decrease intensity doesn't impact its correlation with the attention shift. A mobility decrease, no matter its importance, will lead to a proportionnal increase in video games interest. The third statement is an exception for the Scandinavian countries. These countries may have experienced an increase in videogames research proportionnally speaking, but it's not related to the mobility. 
+From all this analysis, 3 conclusions can be drawn: First, the amount of decrease in mobility and the intensity of the lockdown are factors that drive the attention shift towards video games: the less the people are moving, the more they spend time playing video games and doing research about it. The second statement is an extension of the first one, in the sense that the mobility decrease intensity doesn't impact its correlation with the attention shift. A mobility decrease, no matter its importance, will lead to a proportionnal increase in video games interest. The third statement is an exception for the Scandinavian countries. These countries may have experienced an increase in video games research proportionnally speaking, but it's not related to the mobility. 
 
 However, we need to be aware of the limit of these conclusions. What we found is a correlation relation, not a causation one. It means that even if it looks like the drop in mobility may be the cause of the attention increase towards video games, maybe there is another factor linked to the pandemic that drives the increase in attention.
 
@@ -120,7 +120,7 @@ The mobility curve and the video games attention curve are closely following onc
 
 # Now let's take a look at specific types of video games!
 
-Now that we have seen the overall relationship between interest in videogames and the mobility decrease, let's get specific and dive further in the video games part of the analysis. There are many types of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what the trends are amongst all the different types of video games. The following part analyses French, Japanese, Italian and German growth in pageviews across gaming categories. These four languages, nearly unique to a single country, are becoming our focal point due to their distinct lockdown measures, geographic placement, and cultural differences, offering a rich ground for analysis.
+Now that we have seen the overall relationship between interest in video games and the mobility decrease, let's get specific and dive further in the video games part of the analysis. There are many types of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what the trends are amongst all the different types of video games. The following part analyses French, Japanese, Italian and German growth in pageviews across gaming categories. These four languages, nearly unique to a single country, are becoming our focal point due to their distinct lockdown measures, geographic placement, and cultural differences, offering a rich ground for analysis.
 
 ## Overview
 
@@ -135,7 +135,7 @@ Now that we have seen the overall relationship between interest in videogames an
 ></iframe>
 </div>
  
-The French government implemented a strict lockdown on March 17, 2020, initially planned for 15 days but extended to 55 days until May 11, 2020. As we saw before, the mobility disruption led to an increase in gaming popularity. During the lockdown, game pageviews surged, but post-intervention, they returned to pre-COVID levels. When considering game genre, we can see that during the lockdown, the video games about Action, Adult, Adventure, Horror, Puzzle, RPG, Sports and Strategy have attracted the most increase. We also note that Horror games actually remain more popular than pre-lockdown time after the intervention has been lifted, while other games are back to normal popularity just like the pre-covid time. We can specifically look into games about Sports and Multiplayer/Online. After the normalcy comeback, the popularities of these two genres of games actually declined, which is reasonable since people tends to play sports offline and meet offline to hang out and have fun.
+The French government implemented a strict lockdown on March 17, 2020, initially planned for 15 days but extended to 55 days until May 11, 2020. As we saw before, the mobility disruption led to an increase in gaming popularity. During the lockdown, game pageviews surged, but post-intervention, they returned to pre-COVID levels. When considering game genre, we can see that during the lockdown, the video games about Action, Adult, Adventure, Horror, Puzzle, RPG, Sports and Strategy attracted the most people. We also note that Horror games actually remained more popular than pre-lockdown after the restrictions had been lifted, while other games went back to their normal popularity just like at pre-covid time. We will specifically look into games about Sports and Multiplayer/Online. After the normalcy comeback, the popularities of these two genres of games actually declined, which is reasonable since people tend to play sports offline and meet offline to hang out and have fun.
 
 ### Germany – Less Restrictive, Less Interest in Games
 
@@ -148,7 +148,7 @@ The French government implemented a strict lockdown on March 17, 2020, initially
 ></iframe>
 </div>
 
-Compared to its bordering country France, Germany has less restriction on the free move of the people, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia. Overall, there is minor increased popularity in games, but it is obviously milder than that in France. Regarding to different game genres, RPG, Stimulation, Sports and Strategy enjoy the most gain from the lockdown, but if you compared it to other same genres in France, it is definitely a smaller gain. Interestingly, the Miscellaneous games have the most gain during the lockdown time. And the Stimulation and Strategy games are also quite popular, while the Action games actually have no interest increase.
+Compared to its bordering country France, Germany had less restrictions on the movements of people, leading to a smaller mobility decrease in Germany. This is a reason why people spent less time at home and play video games, and there is less increase in the pageviews of games in German-version Wikipedia. Overall, there is a minor increase of popularity in games, but it is obviously milder than that in France. Regarding different game genres, RPG, Stimulation, Sports and Strategy enjoy the biggest gain from the lockdown, but if you compare it to other same genres in France, it is definitely a smaller gain. Interestingly, the Miscellaneous games have the most gain during the lockdown time. And the Stimulation and Strategy games are also quite popular, while the Action games actually have no interest increase.
 
 ### Japan – We Play Games for Passion
 
@@ -161,9 +161,9 @@ Compared to its bordering country France, Germany has less restriction on the fr
 ></iframe>
 </div>
 
-Japan didn't suffer from first wave of the pandemic, leaving thus the mobility disruption at the minimum level. In this case, people enjoyed more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government. However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. The Anime-theme games, which are supposed to be popular in Japan, have surprisingly not attained enough interest gain during the lockdown period. Also the popularity seems to last longer than expected after the intervention is over. We believe the explanation to be the follwing: since the mobility did not changed sharply, the popularity in the games can last longer since people are not "forced" to play games. Instead they appreciate the new free time without get a "video game overdose". Therefore, there is some evidence that the game industry in Japan actually benefits from covid in a longer time span.
+Japan didn't suffer from first wave of the pandemic, leaving thus the mobility disruption at the minimum level. In this case, people enjoyed more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government. However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. The Anime-theme games, which are supposed to be popular in Japan, have surprisingly not had a large interest gain during the lockdown period. Also, the popularity seems to last longer than expected after the intervention is over. We believe the explanation to be the follwing: since the mobility did not change sharply, the popularity in the games can last longer since people are not "forced" to play games. Instead they appreciate the new free time without get a "video game overdose". Therefore, there is some evidence that the game industry in Japan actually benefits from covid in a longer time span.
 
-## Le's dig deeper
+## A deeper dive in the data...
 
 Our previous findings reveal that while overall interest in gaming surged in many countries, the pattern wasn't uniform across all genres or regions. Some genres saw a spike in certain countries, whereas others experienced a decline within the same borders. This suggests that gaming preferences might vary from country to country, influenced by numerous factors.
 
@@ -195,21 +195,21 @@ For strategy games, the post-adjustment analysis indicated a clear preference in
 ></iframe>
 </div>
 
-Summarizing, French and Italian gamers shared similar tastes during the pandemic, with the French leaning towards action and adult games, while Italians showed less interest in adult games. Japanese gamers favored strategy and adult games and showed little enthusiasm for other genres. Germans appeared to prefer strategy and miscellaneous games, with a significant inclination towards the latter.
+To summarize, French and Italian gamers shared similar tastes during the pandemic, with the French leaning more towards action and adult games, while Italians showed less interest in adult games. Japanese gamers favored strategy and adult games and showed little enthusiasm for other genres. Germans appeared to prefer strategy and miscellaneous games, with a significant inclination towards the latter.
 
-To probe the reasons behind these preferences, we considered societal openness to sexual content by referencing Pornhub viewership rankings. Given the similar population sizes of France, Germany, and Italy, and Japan's slightly higher population, these rankings provide insight into national attitudes towards sex-related topics. France's higher ranking compared to Italy and Germany aligns with the interest in adult games during the pandemic. Interestingly, despite Germany's larger population, it has lower Pornhub traffic than Italy, further correlating with our gaming data.
+To analyse the reasons behind these preferences, we considered societal openness to sexual content by referencing Pornhub viewership rankings. Given the similar population sizes of France, Germany, and Italy, and Japan's slightly higher population, these rankings provide insight into national attitudes towards sex-related topics. France's higher ranking compared to Italy and Germany aligns with the interest in adult games during the pandemic. Interestingly, despite Germany's larger population, it has lower Pornhub traffic than Italy, further correlating with our gaming data.
 
 <p align="center">
   <img src="/assets/img/Ph50.png" />
 </p>
 
-For action and strategy games, differing trends suggest a link with national personality tendencies. For instance, the MBTI personality index suggests that the French, being more Extraverted and Observant, may prefer action-oriented games that engage their senses over strategic thinking.
+For action and strategy games, differing trends suggest a link with national personality tendencies. For instance, the MBTI personality index suggests that the French, being more extraverted and observant, may prefer action-oriented games that engage their senses over strategic thinking.
 
-Miscellaneous games defy easy categorization by personality or preference but seem to offer an accessible option during lockdowns, especially for those without a strong pre-existing preference for other genres.
+Miscellaneous games defy easy categorisation by personality or preference but seem to offer an accessible option during lockdowns, especially for those without a strong pre-existing preference for other genres.
 
 ![Branching](/assets/img/personalities.png)
 
-But wait. Don't you think that we missed something? Since the beginning of the article we are talking about different language without mentionning the most used and known worldwide. I'm of course speaking about English. It's true that we didn't include in our study the english language yet, but it's because this language is not representative of a country as many people speak it around the globe. Thus, is it representative of the worldwide tendancies? Let's answer that question!
+But wait. Don't you think that we missed something? Since the beginning of the article we are talking about different languages without mentioning the most used and known worldwide. I'm of course speaking about English. It's true that we didn't include the english language yet, but it's because this language is not representative of a country as many people speak it around the globe. Thus, is it representative of worldwide tendencies? Let's answer that question!
 
 # To what extent can English Wikipedia pages serve as a reliable estimate of the average video game popularity?
 
@@ -223,9 +223,9 @@ In order to find out if English Wikipedia pages can serve as a reliable estimate
   <img src="/assets/img/Total_views.jpg" />
 </p>
 
-We analyzed the differences between pre-lockdown, lockdown, and normalcy of all the data. We looked at the different mobilities, page views, more specifically, page views in comparison to total page views. To find the relevant pages in the interventions dataset, we had to extract culture -> media -> video games, and then look at the percent usage of wikipedia that was associated with video games. We will see below the relationship between the Enlgish Wikipedia pages and the rest.
+We analysed the differences between pre-lockdown, lockdown, and normalcy of all the data. We looked at the different mobilities, page views, more specifically, page views in comparison to total page views. To find the relevant pages in the interventions dataset, we had to extract culture -> media -> video games, and then look at the percent usage of wikipedia that was associated with video games. We will see below the relationship between the English Wikipedia pages and the rest.
 
-At first thought, given the amount of people that speak enligsh, as well as most video games originally being created in english would lead us all to believe that the English pages would follow a similar trend to the average wikipedia pages, right? Keep on reading to find out!
+At first thought, given the amount of people that speak English, as well as most video games originally being created in english would lead us all to believe that the English pages would follow a similar trend to the average wikipedia pages, right? Keep on reading to find out!
 
 ## Analysis
 
@@ -250,9 +250,9 @@ Before the COVID-19 lockdown, players often played the same games as they didn't
 
 ![Branching](/assets/img/Among_Us.jpg)
 
-Among Us is a great example to showcase this. It's not an accident that there is only information about the engish wikipedia searches for Among Us mid-2020. The vast majority of games are created in Enlgish only and they are then only translated into other languages when, but more importantly if they become more popular. Among Us was released mid 2018, however it gained a bit of popularity when the lockdown happened as a lot of people were home with time to play, often wanting to play fun games together, which Among Us clearly is. However even with this increase with wikipedia searches being in the hundreds didn't warrant for the game to be translated into any other languages, and therefore the lack of wikipedia pages for the game in any other language before it blew up.
+Among Us is a great example to showcase this. It's not an accident that there is only information about the English wikipedia searches for Among Us mid-2020. The vast majority of games are created in English only and they are then only translated into other languages when, but more importantly if they become more popular. Among Us was released mid 2018, however it gained a bit of popularity when the lockdown happened as a lot of people were home with time to play, often wanting to play fun games together, which Among Us clearly is. However even with this increase with wikipedia searches being in the hundreds didn't warrant for the game to be translated into any other languages, and therefore the lack of wikipedia pages for the game in any other language before it blew up.
 
-This really is a great example of how the game has to gain in popularity in english before being translated, as we can see when the game really blew up mid september 2020 reaching hunderds of thousands of wikipedia searches, all the other languages began to exist and rise in popularity too. However this game, even though it was the perfect game for the COVID-19 lockdown in order to both have fun keep contact with friends, it only gained in popularity thanks to youtubers and twitch streamers playing it, making their viewers want to play the game too. Again we can see how the english pages reached higher than other languages, however the searches came down a lot faster too, but by looking at the english pages before the other pages even existed, we could easily predict what would happen with the other wikipedia pages.
+This really is a great example of how the game has to gain in popularity in english before being translated, as we can see when the game really blew up mid September 2020 reaching hundreds of thousands of wikipedia searches, all the other languages began to exist and rise in popularity too. However this game, even though it was the perfect game for the COVID-19 lockdown in order to both have fun keep contact with friends, it only gained in popularity thanks to youtubers and twitch streamers playing it, making their viewers want to play the game too. Again we can see how the english pages reached higher than other languages, however the searches came down a lot faster too, but by looking at the english pages before the other pages even existed, we could easily predict what would happen with the other wikipedia pages.
 
 <div align="center">
 <iframe
@@ -263,7 +263,7 @@ This really is a great example of how the game has to gain in popularity in engl
 ></iframe>
 </div>
 
-Obviously the COVID-19 lockdown increased the page views related to video games, but we can also see below that video games increased more relatively to other pages during the COVID-19 lockdown. This is important because all page views increased as we could see above when we showed the total amount of wikipedia searches. Unfortunately we cannot see the longer lasting effect that COVID-19 had on the pageviews a few years after the lockdown due to the lack of data with this dataset.
+Obviously the COVID-19 lockdown increased the page views related to video games, but we can also see below that video games increased more relatively to other pages during the COVID-19 lockdown. This is important because all page views increased as we could see above when we showed the total amount of wikipedia searches. Unfortunately we cannot see the longer lasting effect that COVID-19 had on the page-views a few years after the lockdown due to the lack of data with this dataset.
 
 Furthermore, when we compare the trends individually, we can still match the english to be the average, no matter how restrictive the lockdown was. However it matches the semi_restrictive lockdowns the best. Look at the graph below and toggle between the different restrictivenesses or look at all of them at once and see for yourself that english matches the average trends quite well when toned down.
 
@@ -276,7 +276,7 @@ Furthermore, when we compare the trends individually, we can still match the eng
 ></iframe>
 </div>
 
-We could also look at the fact that england had a semi-restrictive lockdown and therefore represents the average of those countries the best, but that isn't the main point we are interested in as we want to see if the english pages are a good representation of the worldwide average in order to be able to predict the worldwide trend of games.
+We could also look at the fact that England had a semi-restrictive lockdown and therefore represents the average of those countries the best, but that isn't the main point we are interested in as we want to see if the english pages are a good representation of the worldwide average in order to be able to predict the worldwide trend of games.
 
 <div align="center">
 <iframe
@@ -291,7 +291,7 @@ In summary, we found that by toning down the English Wikipedia pages, making it 
 
 # Video games? Not the only type of games to entertain!
 
-We've crunched the numbers and found fascinating things. There's a significant shift in people's interest in games during these lockdown periods. But is it only about video games? To be completely exhaustive we need also to study the old school version of video games. We're talking about board games, those classic, timeless entertainers.
+We've crunched the numbers and found fascinating things. There's a significant shift in people's interest in games during these lockdown periods. But is it only about video games? To be completely exhaustive we also need to study the old school version of video games. We're talking about board games, these classic, timeless entertainers.
 
 In the following section we will discuss the shift in attention towards board games and see if they follow the same trends as the video games.
 
@@ -311,7 +311,7 @@ This is why in the next analysis, we're shifting our focus to more traditional b
 
 ## Board Games: A Window into People's Lives
 
-As we delve into some classic board games, a pattern emerges. Weekends bring a surge in Wikipedia visits. But there's more – during lockdowns, these games saw a noticeable increase in online interest. It's as if they became a go-to source of fun and entertainment during those challenging times.
+As we take a look at some classic board games, a pattern emerges. Weekends present an increase in Wikipedia visits. But there's more to be studied – during lockdowns, these games saw a noticeable increase in interest on Wikipedia's website. It's as if they became a go-to source of entertainment during those challenging times.
 
 ### Uncovering Board Game Trends: An Analytical Adventure
 
@@ -319,11 +319,11 @@ Next, we're embarking on a journey to analyze 20 beloved board games. Our missio
 
 ![Branching](/assets/img/boardgamesglobal.png)
 
-This investigation offers a captivating look into how board games have integrated into our daily lives during unprecedented times. In the next section of our study, we will embark on an exploration of 20 popular board games. Our objective? To decode the fluctuating patterns of interest surrounding these games. By meticulously tracking the total number of views these fan-favorite board games received on Wikipedia, we anticipate uncovering a wealth of intriguing insights. Prepare to be fascinated as we reveal the unique aspects and hidden stories behind these beloved gaming classics!
+This investigation offers a captivating look into how the interest for board games has changed during these unprecedented times. In the next section of the study, we will embark on an exploration of 20 popular board games. Our objective? To decode the patterns of interest surrounding them. By tracking the total number of views these board games received on Wikipedia, we aim to uncover intriguing insights! 
 
 ![Branching](/assets/img/testbd.png)
 
-This compelling plot reveals a remarkable story, particularly evident during the COVID-19 era: the resurgent popularity of board games. Amidst these unprecedented times, board games captured the public's imagination, eclipsing the general interest in Wikipedia's diverse topics. 
+This plot reveals a remarkable story, particularly evident during the COVID-19 era: the increasing popularity of board games. During these times, board games captured the public's imagination, eclipsing the general interest in Wikipedia's diverse topics. 
 
 The plot thickens as we delve deeper. Our attention is irresistibly drawn to a staggering peak that emerges in late 2021. This spike stands out like a lighthouse in a sea of data, signaling a period of heightened fascination. What extraordinary events unfolded during this enigmatic year-end? As we inch closer to unraveling this puzzle, we find ourselves on the cusp of uncovering something extraordinary. The anticipation builds as we prepare to delve into the depths of this unique period, eager to decode the secrets behind this unprecedented surge in board game popularity.
 
