@@ -1,16 +1,16 @@
 ---
 layout: home
 title: Covid-eo Games
-subtitle: Analysis on the impact of the Covid-19 lockdown on the interest towards video games
+subtitle: Analysis of the Covid-19 lockdown impact on the interest towards video games
 ---
 
-Have you ever wondered if the COVID-19 had more impact on you than just the sudden urge to become an expert in Zoom? Or did you spend the most of your time training to become the last survivor on the fortnite Island? If the answer is yes this article is for you because we are going to reveal the mysterious connection between the pandemic and the the video games Industry. The mission is to understand the relationship between global lockdown experiences, varying in intensity, and the consequent shifts in attention towards video games. Our study aims not only to decrypt the impact of lockdown measures but also to discern whether distinct genres of games underwent differential changes during this period.
+Have you ever wondered if the COVID-19 had more impact on you than just the sudden urge to become an expert in Zoom? Or did you spend the most of your time training to become the last survivor on the fortnite Island? If the answer is yes this article is for you because we are going to reveal the mysterious connection between the pandemic and the video games industry. The mission is to understand the relationship between global lockdown experiences, varying in intensity, and the consequent shifts in attention towards video games. Our study aims not only to decrypt the impact of lockdown measures but also to discern whether distinct genres of games underwent differential changes during this period.
 
-This article contains lots interactive visualizations. Don't forget to use them to be sure to understand all the important informations. Let's get started, it's about to get real (or at least virtually real)!
+This article contains many interactive visualizations. Don't forget to use them to be sure to understand all the important informations. Let's get started, it's about to get real (or at least virtually real)!
 
 # Introduction
 
-To introduce the subject well, we first need to get an idea of what type of games there are and their distribution in the wikipedia database. By parsing down all the game genres from the Wikipedia for every games and categorized it into several main game genres, we can get the overview we need.
+To introduce the subject well, we first need to get an idea of what type of games there are and their distribution in the wikipedia database. By parsing down all the game pages from the Wikipedia database and categorized them into several main game genres, we can get the overview we need.
 
 <iframe
   src="/assets/img/game genre count.html"
@@ -21,7 +21,7 @@ To introduce the subject well, we first need to get an idea of what type of game
 
 The most prevalent genre in the dataset is "Action”. This suggests that action games are highly popular or widely produced. The dataset encompasses a diverse range of genres, including sports, role-playing games (RPG), adventure, science fiction, puzzle, strategy, simulation, and more. This diversity indicates a variety of gaming preferences and interests, which aligns with the current development of the worldwide game industry.
 
-Also, the following graph plots for each day the total main genre pageviews different depending on the language. from this graph we can already see trends in the influence of periods, languages and themes on wikipedia traffic. Do not hesitate to play a lot with this graph!
+Also, the following graph plots for each day the total views for pages related to the same main genre depending on the language. from this graph we can already see trends in the influence of periods, languages and themes on wikipedia traffic. Do not hesitate to play a lot with this graph!
 
 <div align="center">
 <iframe
