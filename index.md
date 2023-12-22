@@ -339,3 +339,6 @@ The burning question is whether board games experienced a surge in interest, not
 The Story Told by Graphs: Board Games in the Limelight
 
 Our graphs sing a fascinating tune, showing how board games danced along with global Wikipedia trends. The lockdown period, however, reveals something extraordinary. Board games stepped into the spotlight, with their popularity climbing higher than expected. As we approached the 2021 year-end festivities, this trend became even more pronounced. It's a heartwarming sign of families coming together, embracing the joy of board games.
+
+# Conclusion
+
