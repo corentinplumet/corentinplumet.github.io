@@ -83,6 +83,17 @@ We just saw in the previous part that there might be an increase in the proporti
 
 We can see that there is clear tendancy of increase in attention toward video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games amongst all the wikipedia pageviews. Also, with this graph it's clear that the intensity of lockdown had an impact on the attention shift towards videogames. Indeed, the countries with an unrestrive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also seems like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less likely to be significant than with the unrestictrive lockdown.
 
+<div align="center">
+<iframe
+  src="/assets/img/boxplot.html"
+  width = 800
+  height = 500
+  style="border:none;"
+></iframe>
+</div>
+
+The boxplot above gives us another distribution view of the attention shift. Thanks to the confidence interval of 95% percent, we can confirm our previous analysis. Indeed, we see that the "restrictive" group confidence intervals overlap with the 2 other, but the "very restrive" group and "unrestrictive" group don't overllap. Also the overlap for the "restrictive" and "unrestrictive lockdown" are really small. 
+
 But is really this attention shift towards video games correlated to the mobility of people inside this country ? To answer this question, we can plot the correlation coefficient between the mobility time series and the wikipedia pegeviews time series. We get this plot:
 
 ![Branching](/assets/img/correlation_coeff_plot.png)
