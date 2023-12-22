@@ -99,7 +99,9 @@ However, we need to be aware of the limit of these conclusions. What we found is
 
 But what about catalonia? We get very strange data for this region. we saw that there is a huge increase in the attention towards video games after the lockdown with the "change in proportion" plot. But also we saw a very strong positive correlation between the mobility and the video games interest. Does it mean that the catalans are more interested in video games when they are free to move? Let's take a look:
 
+![Branching](/assets/img/catalonia.png)
 
+We can see a strange effect. The mobility curve and the video games attention curves are closely following once the lockdown is effective. when the mobility dropped, the video games attention didn't change much but after that, it followed the evolution (rise) in mobility. That explains the strong positive correlation and the huge increase in attention between the lockdown.
 
 # What about specific types of video games ? 
 
