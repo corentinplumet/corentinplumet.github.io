@@ -12,14 +12,12 @@ This article contains lots interactive visualizations. Don't forget to use them 
 
 To introduce the subject well, we first need to get an idea of what type of games there are and their distribution in the wikipedia database. By parsing down all the game genres from the Wikipedia for every games and categorized it into several main game genres, we can get the overview we need.
 
-<div align="center">
 <iframe
   src="/assets/img/game genre count.html"
   width = 900
   height = 550
   style="border:none;"
 ></iframe>
-</div>
 
 The most prevalent genre in the dataset is "Action”. This suggests that action games are highly popular or widely produced. The dataset encompasses a diverse range of genres, including sports, role-playing games (RPG), adventure, science fiction, puzzle, strategy, simulation, and more. This diversity indicates a variety of gaming preferences and interests, which aligns with the current development of the worldwide game industry.
 
