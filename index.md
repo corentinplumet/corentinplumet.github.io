@@ -188,7 +188,7 @@ For strategy games, the post-adjustment analysis indicated a clear preference in
 <iframe
   src="/assets/img/casual.html"
   width = 800
-  height = 500
+  height = 550
   style="border:none;"
 ></iframe>
 </div>
