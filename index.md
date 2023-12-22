@@ -199,8 +199,6 @@ To probe the reasons behind these preferences, we considered societal openness t
   <img src="/assets/img/Ph50.png" />
 </p>
 
-![Branching](/assets/img/Ph50.png)
-
 For action and strategy games, differing trends suggest a link with national personality tendencies. For instance, the MBTI personality index suggests that the French, being more Extraverted and Observant, may prefer action-oriented games that engage their senses over strategic thinking.
 
 Miscellaneous games defy easy categorization by personality or preference but seem to offer an accessible option during lockdowns, especially for those without a strong pre-existing preference for other genres.
@@ -298,7 +296,9 @@ First up, chess games. You can almost see the spike in interest during the lockd
 
 But here's the twist: chess might not be our best indicator for this study. Why? Its popularity exploded in recent years, skewing our data. 
 
-![Branching](/assets/img/chesscom.png)
+<p align="center">
+  <img src="/assets/img/chesscom.png" />
+</p>
 
 This is why in the next analysis, we're shifting our focus to more traditional board games, ones that have stood the test of time.
 
