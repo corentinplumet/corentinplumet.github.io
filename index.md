@@ -32,7 +32,7 @@ The following graph plots for each day the total views of pages related to the s
 ></iframe>
 </div>
 
-# Lockdown and overall video games interest: how strong is the relation ?
+# Lockdown and overall video games interest: how strong is the relationship?
 
 In this part, we are going to discuss the relation between the different types of lockdowns around the world, and their impact on people's interest for video games. 
 
@@ -61,7 +61,7 @@ For most of the countries, the lockdown is a real anormaly in the mobility patte
 
 There are 3 clear tendancies with very similar patterns. One group, had a very restrictive lockdown with a minimum mobility of around 75% of what it was before the lockdown. The second group, had a restrictive lockdown with a minimum mobility of around 45% of what it was before the lockdown. And the last group also experienced a lockdown, but it was an unrestrictive one, leading to a small decrease in total mobility. 
 
-## Attention towards video games
+## The attention shift towards video games
 
 Now that we have grouped the countries according to their lockdown intensity, we will get the measure of the attention shift towards video games.
 
@@ -77,13 +77,13 @@ After the mobility drop, it appears that certain countries experienced a rise in
 
 ## But is there a correlation...
 
-In the previous part, we saw that there might be an increase in the proportion of views for video games related pages after the mobility drop. To get a representation of this shift in attention, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
+In the previous part, we saw that there might be an increase in the proportion of views for video games related pages after the mobility drop. To get a representation of this shift in attention, we can plot the relative increase in proportion between the pre-lockdown and post-lockdown period.
 
 <p align="center">
   <img src="/assets/img/medianpercentage.png" />
 </p>
 
-We can see that there is a clear tendancy of increase in attention towards video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games amongst all the wikipedia pageviews. Also, with this graph it's clear that the intensity of lockdown had an impact on the attention shift towards videogames. Indeed, the countries with an unrestrictive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also seems like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less likely to be significant than with the unrestrictive lockdown.
+There is a clear tendancy of increase in attention towards video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games on Wikipedia. And with this graph, it is clear that the intensity of lockdown had an impact on the attention shift towards videogames. The countries with an unrestrictive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also looks like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less significant than the one with the unrestrictive lockdown group.
 
 <div align="center">
 <iframe
@@ -94,33 +94,33 @@ We can see that there is a clear tendancy of increase in attention towards video
 ></iframe>
 </div>
 
-The boxplot above gives us another distribution view of the attention shift. Thanks to the confidence interval of 95% percent, we can confirm our previous analysis. Indeed, we see that the "restrictive" group confidence intervals overlap with the 2 other, but the "very restrictive" group and "unrestrictive" group don't overllap. Also the overlap for the "restrictive" and "unrestrictive lockdown" are really small. We can note that the odd shape of the box (the confidence interval being larger than the 1st to 3rd quartile interval) is due to the small number of point in our samples.
+The boxplot above gives us another distribution view of the attention shift. And with the confidence interval of 95% percent, we can confirm our previous analysis. The "restrictive" group's confidence intervals overlap with the 2 other, but the "very restrictive" group and "unrestrictive" group don't overlap. Also the overlap for the "restrictive" and "unrestrictive lockdown" are really small. We can note that the odd shape of the box (the confidence interval being larger than the 1st to 3rd quartile interval) is due to the small number of points in our samples.
 
-But is really this attention shift towards video games correlated to the mobility of people? To answer this question, we can plot the correlation coefficient between the mobility time series and the wikipedia pageviews time series. We get this plot:
+But is this attention shift towards video games correlated to the mobility of people? To answer this question, we get a first glance by plotting the correlation coefficient between the mobility time series and the Wikipedia pageviews time series.
 
 <p align="center">
   <img src="/assets/img/correlation_coeff_plot.png" />
 </p>
 
-According to this graph, the intensity of lockdown doesn't have an impact on the correlation value. Indeed, Japan and Korea which belong to the unrestrictive group have a high negative correlation that is statistically significant like the countries that belongs to the other groups.
+According to this graph, the intensity of lockdown doesn't have an impact on the correlation value. Japan and Korea which belong to the unrestrictive group have a high negative correlation that is statistically significant, just like the countries that belong to the other groups.
 
-What is interesting with this graph is that we can note that the countries with a very low and not significant correlation are Norway, Sweden, Finland and Denmark, which all are Scandinavian countries. It means that even though these countries experienced an increase of the video games page views percentage during the lockdown period (Norway and Denmark especially because Sweden experienced a very low increase and Finland no increase at all) it's not related to the mobility decrease. For Denmark and Norway, the increase in views on wikipedia pages related to video games during the lockdown is simply part of an overall increase, not necessarily linked to the drop in moblity. That's why we notice an increase of videogames related pageviews during the lockdown but no correlation with the drop in mobility.
+What is interesting with this graph is that it reveals that the countries with a very low and not significant correlation are Norway, Sweden, Finland and Denmark, which all are Scandinavian countries. It means that even though these countries experienced an increase of the video games page views percentage during the lockdown period (Norway and Denmark especially because Sweden experienced a very low increase and Finland no increase at all), it's not related to the mobility decrease. For Denmark and Norway, the increase in views on Wikipedia pages related to video games during the lockdown is simply part of an overall increase, not necessarily linked to the drop in moblity. That's why we notice an increase of video games related pageviews during the lockdown but no correlation with the drop in mobility.
 
-Therefore, overall, 3 conclusions can be drawn from this analysis. First, the mobility decrease amount and the intensity of lockdown are indeed a factor that drives the attention shift towards video games: the less the people are moving, the more they spend time playing video games and doing research about it. The second statement is an extension of the first one, in the sense that the mobility decrease intensity doesn't impact its correlation with the attention shift. A mobility decrease, no matter its importance, will lead to a proportionnal increase in video games interest. The third statement is an exception for the Scandinavian countries. These countries may have experienced an increase in videogames research proportionnally speaking, but it's not related to the mobility. 
+From all this analysis, 3 conclusions can be drawn: First, the amount of decrease in mobility and the intensity of the lockdown are factors that drive the attention shift towards video games: the less the people are moving, the more they spend time playing video games and doing research about it. The second statement is an extension of the first one, in the sense that the mobility decrease intensity doesn't impact its correlation with the attention shift. A mobility decrease, no matter its importance, will lead to a proportionnal increase in video games interest. The third statement is an exception for the Scandinavian countries. These countries may have experienced an increase in videogames research proportionnally speaking, but it's not related to the mobility. 
 
-However, we need to be aware of the limit of these conclusions. What we found is a correlation relation, not causation one. It means that even if it seems like the drop in mobility may be the cause of the attention increase towards video games, maybe an other factor linked to the covid-19 that drives the increase in attention.
+However, we need to be aware of the limit of these conclusions. What we found is a correlation relation, not a causation one. It means that even if it looks like the drop in mobility may be the cause of the attention increase towards video games, maybe there is another factor linked to the pandemic that drives the increase in attention.
 
 ### The catalonian exception
 
-But what about catalonia? We get very strange data for this region. We saw that there is a huge increase in the attention towards video games after the lockdown with the "change in proportion" plot. But also we saw a very strong positive correlation between the mobility and the video games interest. Does it mean that the catalans are more interested in video games when they are free to move? Let's take a look:
+But what about Catalonia? This region chose to not follow the trend. We noticed a huge increase in attention towards video games after the lockdown with the previous plots, but we also saw a very strong positive correlation between the mobility and the interest in video games. Does that mean that the catalans are more interested in video games when they are free to move? Let's take a look:
 
 ![Branching](/assets/img/catalonia.png)
 
-We can see a strange effect. The mobility curve and the video games attention curve are closely following once the lockdown is effective. when the mobility dropped, the video games attention didn't change much but after that, it followed the evolution (rise) in mobility. That explains the strong positive correlation and the huge increase in attention between the lockdown.
+The mobility curve and the video games attention curve are closely following once the lockdown is effective. When the mobility dropped, the attention towards video games didn't change much, but after that, it followed the rise in mobility. That explains the strong positive correlation and the huge increase in attention between the lockdown.
 
-# What about specific types of video games ? 
+# Now let's take a look at specific types of video games!
 
-Now that we have seen what is the overall relationship between videogames interest and the mobility decrease, let's get specific and dive further in the video games part of the analysis. There are many type of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what are the trends amongst all the types. The following part analyse French, Japanese, Italian and German growth in pageviews across gaming categories. These four nations are becoming our focal point due to their distinct lockdown measures, geographic placement, and cultural differences, offering a rich ground for analysis.
+Now that we have seen the overall relationship between interest in videogames and the mobility decrease, let's get specific and dive further in the video games part of the analysis. There are many types of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what the trends are amongst all the different types of video games. The following part analyses French, Japanese, Italian and German growth in pageviews across gaming categories. These four languages, nearly unique to a single country, are becoming our focal point due to their distinct lockdown measures, geographic placement, and cultural differences, offering a rich ground for analysis.
 
 ## Overview
 
@@ -135,7 +135,7 @@ Now that we have seen what is the overall relationship between videogames intere
 ></iframe>
 </div>
  
-The French government implemented a strict lockdown on March 17, 2020, initially planned for 15 days but extended to 55 days until May 11, 2020. As we saw before, the mobility disruption led to increased gaming popularity. During the lockdown, game pageviews surged, but post-intervention, they returned to pre-COVID levels. When considering game genre, we can see that during the lockdown, the video games about Action, Adult, Adventure, Horror, Puzzle, RPG, Sports and Strategy have attracted the most increase. We also note that Horror games actually remain more popular than pre-lockdown time after the intervention has been lifted, while other games are back to normal popularity just like the pre-covid time. We can specifically look into games about Sports and Multiplayer/Online. After the normalcy comeback, the popularities of these two genres of games actually declined, which is reasonable since people tends to play sports offline and meet offline to hang out and have fun.
+The French government implemented a strict lockdown on March 17, 2020, initially planned for 15 days but extended to 55 days until May 11, 2020. As we saw before, the mobility disruption led to an increase in gaming popularity. During the lockdown, game pageviews surged, but post-intervention, they returned to pre-COVID levels. When considering game genre, we can see that during the lockdown, the video games about Action, Adult, Adventure, Horror, Puzzle, RPG, Sports and Strategy have attracted the most increase. We also note that Horror games actually remain more popular than pre-lockdown time after the intervention has been lifted, while other games are back to normal popularity just like the pre-covid time. We can specifically look into games about Sports and Multiplayer/Online. After the normalcy comeback, the popularities of these two genres of games actually declined, which is reasonable since people tends to play sports offline and meet offline to hang out and have fun.
 
 ### Germany – Less Restrictive, Less Interest in Games
 
@@ -163,7 +163,7 @@ Compared to its bordering country France, Germany has less restriction on the fr
 
 Japan didn't suffer from first wave of the pandemic, leaving thus the mobility disruption at the minimum level. In this case, people enjoyed more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government. However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. The Anime-theme games, which are supposed to be popular in Japan, have surprisingly not attained enough interest gain during the lockdown period. Also the popularity seems to last longer than expected after the intervention is over. We believe the explanation to be the follwing: since the mobility did not changed sharply, the popularity in the games can last longer since people are not "forced" to play games. Instead they appreciate the new free time without get a "video game overdose". Therefore, there is some evidence that the game industry in Japan actually benefits from covid in a longer time span.
 
-## Let's dig deeper
+## Le's dig deeper
 
 Our previous findings reveal that while overall interest in gaming surged in many countries, the pattern wasn't uniform across all genres or regions. Some genres saw a spike in certain countries, whereas others experienced a decline within the same borders. This suggests that gaming preferences might vary from country to country, influenced by numerous factors.
 
