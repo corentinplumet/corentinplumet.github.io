@@ -342,3 +342,12 @@ Our graphs sing a fascinating tune, showing how board games danced along with gl
 
 # Conclusion
 
+In conclusion, our study presents an insight of the impact of the COVID-19 pandemic and associated lockdown measures on the people's interest towards video games. This interest was measured using Wikipedia pageviews, revealing a correlation between lockdown intensity and the rise in video game attention. Countries with more restrictive lockdowns were more inclined to have a significant increase in video game pageviews, indicating that reducing the mobility is leading people play video games, as they gain a lot of free time. However, this correlation is not always true and varies among countries. Sometimes the increase is not directly linked to mobility changes, as seen in Scandinavian countries.
+
+We also found that the type of video games that gained popularity varied by country. Cultural differences and lockdown intensity are the main influence that drives that popularity. For example, France experienced a rise in action and adult games, while Germany showed a preference for strategy and miscellaneous games. Japan, with its minimal mobility disruption, had a more prolonged interest in certain game genres. It suggests a less reactive but more sustained engagement with video games, as the player were less constrained to play video games.
+
+The analysis extended to board games, reveals a similar trend of increased interest during lockdowns. The study showed that during times of restricted movement, people turned to both video games and board games for entertainment, highlighting the role of games as a significant source of leisure and social interaction during challenging times.
+
+We could decrypt in this study the relation between english pageviews and global worldwide trend. We saw that we can accurately predict the worldwide average Wikipedia pages, even if the english page views is often more volatile than the other language.
+
+In summary, the pandemic's impact on gaming interests was multifaceted, influenced by lockdown severity, cultural preferences, and the availability of leisure time. This shift in entertainment choices reflects a broader trend of adapting to new lifestyles and finding alternative means of engagement and social interaction during periods of isolation.
