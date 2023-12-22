@@ -209,6 +209,8 @@ Miscellaneous games defy easy categorization by personality or preference but se
 
 ![Branching](/assets/img/personalities.png)
 
+But wait. Don't you think that we missed something? Since the beginning of the article we are talking about different language without mentionning the most used and known worldwide. I'm of course speaking about English. It's true that we didn't include in our study the english language yet, but it's because this language is not representative of a country as many people speak it around the globe. Thus, is it representative of the worldwide tendancies? Let's answer that question!
+
 # To what extent can English Wikipedia pages serve as a reliable estimate of the average video game popularity?
 
 In this section we look at the possibility of english wikipedia pages being able to represent the global average and trend of video games. This is likely as video games are often released in english and do not always have other languages. Furthermore a lot of countries speak english on top of their native languages since english is the most common language worldwide. Studies show that 1.45 billion people speak english, and this encompasses more the higher classes. Therefore the people more likely to have access to video games often speak english, again explaining why english wikipedia pages could serve as a reliable estimate of the average video game popularity.
