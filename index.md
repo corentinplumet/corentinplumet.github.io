@@ -79,7 +79,9 @@ We can see that after the mobility drop, it seems that certain countries experie
 
 We just saw in the previous part that there might be an increase in the proportion of views for video games related pages after the mobility drop. To get a representation of this increase, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
 
-![Branching](/assets/img/medianpercentage.png)
+<p align="center">
+  <img src="/assets/img/medianpercentage.png" />
+</p>
 
 We can see that there is a clear tendancy of increase in attention towards video games during the lockdown period as all the countries, except for Finland, experienced an increase in percentage of pageviews related to video games amongst all the wikipedia pageviews. Also, with this graph it's clear that the intensity of lockdown had an impact on the attention shift towards videogames. Indeed, the countries with an unrestrictive lockdown (yellow: Sweden, Korea, Japan) experienced a small increase in attention compared to the 2 groups with a restrictive and very restrictive lockdown. It also seems like the red group (very restrictive lockdown) had a larger increase compared to the orange group (restrictive lockdown), but the difference is less likely to be significant than with the unrestrictive lockdown.
 
@@ -96,7 +98,9 @@ The boxplot above gives us another distribution view of the attention shift. Tha
 
 But is really this attention shift towards video games correlated to the mobility of people? To answer this question, we can plot the correlation coefficient between the mobility time series and the wikipedia pageviews time series. We get this plot:
 
-![Branching](/assets/img/correlation_coeff_plot.png)
+<p align="center">
+  <img src="/assets/img/correlation_coeff_plot.png" />
+</p>
 
 According to this graph, the intensity of lockdown doesn't have an impact on the correlation value. Indeed, Japan and Korea which belong to the unrestrictive group have a high negative correlation that is statistically significant like the countries that belongs to the other groups.
 
@@ -213,7 +217,9 @@ In this section we look at the possibility of english wikipedia pages being able
 
 In order to find out if English Wikipedia pages can serve as a reliable estimate of the average video game popularity, we used the interventions and global mobility datasets in order to find enough relevant information. Later on we used an API to search for more specific games. As we can see wikipedia is accessed a lot, with a little increase during the COVID-19 lockdown period:
 
-![Branching](/assets/img/Total_views.jpg)
+<p align="center">
+  <img src="/assets/img/Total_views.jpg" />
+</p>
 
 We analyzed the differences between pre-lockdown, lockdown, and normalcy of all the data. We looked at the different mobilities, page views, more specifically, page views in comparison to total page views. To find the relevant pages in the interventions dataset, we had to extract culture -> media -> video games, and then look at the percent usage of wikipedia that was associated with video games. We will see below the relationship between the Enlgish Wikipedia pages and the rest.
 
