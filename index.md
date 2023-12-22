@@ -4,13 +4,13 @@ title: Covid-eo Games
 subtitle: Analysis of the Covid-19 lockdown impact on the interest towards video games
 ---
 
-Hi Have you ever wondered if the COVID-19 had more impact on you than just the sudden urge to become an expert in Zoom? Or did you spend the most of your time training to become the last survivor on the fortnite Island? If the answer is yes this article is for you because we are going to reveal the mysterious connection between the pandemic and the video games industry. The mission is to understand the relationship between global lockdown experiences, varying in intensity, and the consequent shifts in attention towards video games. Our study aims not only to decrypt the impact of lockdown measures but also to discern whether distinct genres of games underwent differential changes during this period.
+Have you ever wondered if the COVID-19 had more impact on people than just the sudden urge for people to become expert in Zoom? Or did you spend most of your time training to become the last survivor on the Fortnite island? If the answer is yes, then this article is just for you because we are going to reveal the mysterious connection between the pandemic and the video games industry. Our mission: understanding the relationship between global lockdown experiences, variations in intensity, and the consequent shifts in attention towards video games. Our study aims not only to decrypt the impact of lockdown measures but also to discern whether the interest in distinct genres of games underwent different changes during this period.
 
 This article contains many interactive visualizations. Don't forget to use them to be sure to understand all the important informations. Let's get started, it's about to get real (or at least virtually real)!
 
 # Introduction
 
-To introduce the subject well, we first need to get an idea of what type of games there are and their distribution in the wikipedia database. By parsing down all the game pages from the Wikipedia database and categorized them into several main game genres, we can get the overview we need.
+To introduce the subject properly, we first need to get an idea of what type of games there are and their distribution in the wikipedia database. By parsing down all the game pages from the Wikipedia database and categorizing them into several game genres, we can get an overview and get started with our data analysis!
 
 <iframe
   src="/assets/img/game genre count.html"
@@ -19,9 +19,9 @@ To introduce the subject well, we first need to get an idea of what type of game
   style="border:none;"
 ></iframe>
 
-The most prevalent genre in the dataset is "Action”. This suggests that action games are highly popular or widely produced. The dataset encompasses a diverse range of genres, including sports, role-playing games (RPG), adventure, science fiction, puzzle, strategy, simulation, and more. This diversity indicates a variety of gaming preferences and interests, which aligns with the current development of the worldwide game industry.
+The most prevalent genre in the dataset is "Action”. This suggests that action games are highly popular and/or widely produced. The dataset encompasses diverse genres, including sports, role-playing games (RPG), adventure, science fiction, puzzle, strategy, simulation, and more. This diversity indicates a variety of gaming preferences and interests, which aligns with the current development of the worldwide game industry.
 
-Also, the following graph plots for each day the total views of pages related to the same main genre depending on the language. From this graph we can already see trends on the wikipedia traffic, depending on the periods, languages and themes. Do not hesitate to play a lot with this graph!
+The following graph plots for each day the total views of pages related to the same main genre according to a specific language of research. From this graph we can already see trends on the Wikipedia traffic, depending on the periods, languages and themes. Do not hesitate to interact with this graph!
 
 <div align="center">
 <iframe
@@ -32,15 +32,15 @@ Also, the following graph plots for each day the total views of pages related to
 ></iframe>
 </div>
 
-# Lockdown and overall video games interest: a relation ?
+# Lockdown and overall video games interest: how strong is the relation ?
 
-In this part, we are going to discuss the possinle relation between the different type of lockdown around the world, and their impact on people's interest for video games. 
+In this part, we are going to discuss the relation between the different types of lockdowns around the world, and their impact on people's interest for video games. 
 
-To measure people's interest towards video games we will use the Wikipedia pageviews. Indeed, Wikipedia being the largest and most popular encyclopedia in the world, the pageviews of the website are a good metric to know what people are searching for and thus, are interested in.
+To measure people's interest towards video games we will use the Wikipedia pageviews. Wikipedia being the largest and most popular encyclopedia in the world, the pageviews on the website are a good metric to know what people are searching for and thus, are interested in.
 
-To categorize the lockdown of different country, we will use the reported mobility of google from January 2020 until August 2020.  It's like the GPS for lockdown strictness – the bigger the dip in people moving around, the tighter the lockdown grip. 
+To categorize the lockdown of different country, we will use the reported mobility of Google from January 2020 until August 2020.  It's like the GPS for lockdown strictness – the less people are moving around, the tighter the lockdown grip. 
 
-Our study focus extends to countries where a singular language predominantly prevails. This way we can link accurately Wikipedia page written in a specific language to a specific country. For example, we can assume that only swedish people are using wikipedia pages written in swedish.
+Our study extends to countries where a singular language predominantly prevails. This way we will link accurately Wikipedia pages written in a specific language to a specific country. For example, using the views on pages in Swedish will give us a way more accurate estimation of people's interests in Sweden than if we were to do the same thing with English.
 
 ## Mobility pattern
 
