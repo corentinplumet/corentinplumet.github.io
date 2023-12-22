@@ -231,7 +231,7 @@ Take a look at the graph below, unsurprisingly, the lockdown in Great Britain is
 <iframe
   src="/assets/img/average_mobility.html"
   width = 950
-  height = 850
+  height = 800
   style="border:none;"
 ></iframe>
 </div>
@@ -244,7 +244,6 @@ Especially during the COVID-19 lockdown, English spiked a lot more than other co
 
 Before the COVID-19 lockdown, players often played the same games as they didn't have as much time to put into learning new ones. Since higher levels of video games are english speaking, they don't really need to look up their games on wikipedia as they already know it well enough. However during the lockdown, many new games rose to popularity (Among Us, Fall Guys), and these games pushed people to look them up and learn the new games, therefore the spike in english wikipedia pages during the lockdown. On top of that the people that play more often enjoy playing with add-ons to the games, which are almost always solely in English. However the higher level players tend to always return to their game of choice after the hype of the new games die down.
 
-
 ![Branching](/assets/img/Among_Us.jpg)
 
 Among Us is a great example to showcase this. It's not an accident that there is only information about the engish wikipedia searches for Among Us mid-2020. The vast majority of games are created in Enlgish only and they are then only translated into other languages when, but more importantly if they become more popular. Among Us was released mid 2018, however it gained a bit of popularity when the lockdown happened as a lot of people were home with time to play, often wanting to play fun games together, which Among Us clearly is. However even with this increase with wikipedia searches being in the hundreds didn't warrant for the game to be translated into any other languages, and therefore the lack of wikipedia pages for the game in any other language before it blew up.
@@ -254,7 +253,7 @@ This really is a great example of how the game has to gain in popularity in engl
 <div align="center">
 <iframe
   src="/assets/img/percent_pageviews.html"
-  width = 800
+  width = 850
   height = 550
   style="border:none;"
 ></iframe>
@@ -279,7 +278,7 @@ We could also look at the fact that england had a semi-restrictive lockdown and 
 <iframe
   src="/assets/img/mobility.html"
   width = 850
-  height = 600
+  height = 550
   style="border:none;"
 ></iframe>
 </div>
