@@ -195,16 +195,14 @@ Summarizing, French and Italian gamers shared similar tastes during the pandemic
 
 To probe the reasons behind these preferences, we considered societal openness to sexual content by referencing Pornhub viewership rankings. Given the similar population sizes of France, Germany, and Italy, and Japan's slightly higher population, these rankings provide insight into national attitudes towards sex-related topics. France's higher ranking compared to Italy and Germany aligns with the interest in adult games during the pandemic. Interestingly, despite Germany's larger population, it has lower Pornhub traffic than Italy, further correlating with our gaming data.
 
-<div align="center">
 ![Branching](/assets/img/Ph50.png)
-</div>
 
 For action and strategy games, differing trends suggest a link with national personality tendencies. For instance, the MBTI personality index suggests that the French, being more Extraverted and Observant, may prefer action-oriented games that engage their senses over strategic thinking.
 
 Miscellaneous games defy easy categorization by personality or preference but seem to offer an accessible option during lockdowns, especially for those without a strong pre-existing preference for other genres.
 
 <div align="center">
-![Branching](/assets/img/personalities.png)
+![Branching](/assets/img/personalities.jpg)
 </div>
 
 # To what extent can English Wikipedia pages serve as a reliable estimate of the average video game popularity?
@@ -216,7 +214,7 @@ In this section we look at the possibility of english wikipedia pages being able
 In order to find out if English Wikipedia pages can serve as a reliable estimate of the average video game popularity, we used the interventions and global mobility datasets in order to find enough relevant information. Later on we used an API to search for more specific games. As we can see wikipedia is accessed a lot, with a little increase during the COVID-19 lockdown period:
 
 <div align="center">
-![Branching](/assets/img/Total_views.png)
+![Branching](/assets/img/Total_views.jpg)
 </div>
 
 We analyzed the differences between pre-lockdown, lockdown, and normalcy of all the data. We looked at the different mobilities, page views, more specifically, page views in comparison to total page views. To find the relevant pages in the interventions dataset, we had to extract culture -> media -> video games, and then look at the percent usage of wikipedia that was associated with video games. We will see below the relationship between the Enlgish Wikipedia pages and the rest.
@@ -231,7 +229,7 @@ Take a look at the graph below, unsurprisingly, the lockdown in Great Britain is
 <iframe
   src="/assets/img/average_mobility.html"
   width = 950
-  height = 800
+  height = 850
   style="border:none;"
 ></iframe>
 </div>
@@ -244,7 +242,8 @@ Especially during the COVID-19 lockdown, English spiked a lot more than other co
 
 Before the COVID-19 lockdown, players often played the same games as they didn't have as much time to put into learning new ones. Since higher levels of video games are english speaking, they don't really need to look up their games on wikipedia as they already know it well enough. However during the lockdown, many new games rose to popularity (Among Us, Fall Guys), and these games pushed people to look them up and learn the new games, therefore the spike in english wikipedia pages during the lockdown. On top of that the people that play more often enjoy playing with add-ons to the games, which are almost always solely in English. However the higher level players tend to always return to their game of choice after the hype of the new games die down.
 
-![Branching](/assets/img/Among_Us.png)
+
+![Branching](/assets/img/Among_Us.jpg)
 
 Among Us is a great example to showcase this. It's not an accident that there is only information about the engish wikipedia searches for Among Us mid-2020. The vast majority of games are created in Enlgish only and they are then only translated into other languages when, but more importantly if they become more popular. Among Us was released mid 2018, however it gained a bit of popularity when the lockdown happened as a lot of people were home with time to play, often wanting to play fun games together, which Among Us clearly is. However even with this increase with wikipedia searches being in the hundreds didn't warrant for the game to be translated into any other languages, and therefore the lack of wikipedia pages for the game in any other language before it blew up.
 
@@ -266,8 +265,8 @@ Furthermore, when we compare the trends individually, we can still match the eng
 <div align="center">
 <iframe
   src="/assets/img/normalized_percent.html"
-  width = 800
-  height = 550
+  width = 850
+  height = 700
   style="border:none;"
 ></iframe>
 </div>
@@ -277,7 +276,7 @@ We could also look at the fact that england had a semi-restrictive lockdown and 
 <div align="center">
 <iframe
   src="/assets/img/mobility.html"
-  width = 800
+  width = 850
   height = 600
   style="border:none;"
 ></iframe>
