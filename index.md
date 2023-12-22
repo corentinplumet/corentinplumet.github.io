@@ -95,6 +95,12 @@ Therefore, overall, 3 conclusions can be drawn from this analysis. First, the mo
 
 However, we need to be aware of the limit of these conclusions. What we found is a correlation relation, not causation one. It means that even if it seems like the drop in mobility may be the cause of the attention increase towards video games, maybe an other factor linked to the covid-19 that drives the increase in attention.
 
+### The catalonian exception
+
+But what about catalonia? We get very strange data for this region. we saw that there is a huge increase in the attention towards video games after the lockdown with the "change in proportion" plot. But also we saw a very strong positive correlation between the mobility and the video games interest. Does it mean that the catalans are more interested in video games when they are free to move? Let's take a look:
+
+
+
 # What about specific types of video games ? 
 
 Now that we have seen what is the overall relationship between videogames interest and the mobility decrease, let's get specific and go deeper into the video games part of the analysis. There are lots of type of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what are the trends amongst all the types. The analysis is performed on one country of each lockdown intensity to capture the lockdown effect in the analysis.
