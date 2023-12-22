@@ -106,6 +106,10 @@ However, we need to be aware of the limit of these conclusions. What we found is
 
 Now that we have seen what is the overall relationship between videogames interest and the mobility decrease, let's get specific and go deeper into the video games part of the analysis. There are lots of type of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what are the trends amongst all the types. The analysis is performed on one country of each lockdown intensity to capture the lockdown effect in the analysis.
 
+## Overview
+
+The following part analyse French, Japanese, and German growth in pageviews across gaming categories. These four nations are becoming our focal point due to their distinct lockdown measures, geographic placement, and cultural differences, offering a rich ground for analysis.
+
 ###	France – Popularity Boosts Strong in Games
 
 <div align="center">
@@ -144,3 +148,18 @@ Compared to its bordering country France, Germany has less restriction on the fr
 </div>
 
 Japan didn't suffer from first wave of the pandemic, leaving thus the mobility disruption at the minimum level. In this case, people enjoy more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government. However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. The Amine-theme games, which are supposed to be popular in Japan, have surprisingly not attained enough interest gain during the lockdown period. And there is similar phenomenon like that in Germany, that game players in Japan actually have more interest in games about miscellaneous and puzzles Also the popularity seems to last longer than expected after the intervention is over. We believe there is an explanation that since the mobility is not changed sharply, the popularity in the games can last longer since people are not "forced" to play games, instead they are actually like video games. Therefore, there is some evidence that the game industry in Japan actually benefits from covid in a longer time span.
+
+## Le's dig deeper
+
+Our previous findings reveal that while overall interest in gaming surged in many countries, the pattern wasn't uniform across all genres or regions. Some genres saw a spike in certain countries, whereas others experienced a decline within the same borders. This suggests that gaming preferences might vary from country to country, influenced by numerous factors.
+
+Now, our study will be particularly focused on four genres: Action, Adult, Strategy, and Miscellaneous. These were selected based on their high view counts, which likely meant more robust data. Interestingly, these genres exhibited diverse trends in different nations.
+
+Looking at the initial naive analysis, we noted that strategy games were uniformly popular across all three countries, with Japan showing the highest uptick. Action games presented a mixed picture: France saw considerable growth, Japan a modest rise, and Germany a slight drop. Adult games followed a similar pattern to action games, but with less variation between countries. Japan, in particular, showed a significant interest in adult games, which was not mirrored in action games. Miscellaneous games stood out, showing substantial increases in pageviews across almost all countries, with Germany showing a notable rise, which was not observed in the other genres.
+
+### Causal impact analysis
+
+To refine our understanding, we applied a Google causal impact analysis and adjusted pageviews by the total Wikipedia views in respective languages. This adjustment revealed significant shifts, indicating that overall Wikipedia traffic was a factor to be considered.
+
+For strategy games, the post-adjustment analysis indicated a clear preference in Japan and Germany during the pandemic. In contrast, the impact on action games was much more pronounced in France, with the effects in Japan and Germany not being statistically significant.
+
