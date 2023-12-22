@@ -44,7 +44,7 @@ Our study focus extends to countries where a singular language predominantly pre
 
 ## Mobility pattern
 
-The plot below presents the moblity evolution between the 2020-02-15 and the 2020-08-25, taking as 0 the mobility on the first day of the interval. We got data for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. Also the 2 red lines represent the 2 dates were we can statistically consider a mobility drop and then a normality comeback.   
+The plot below presents the moblity evolution between the 2020-02-15 and the 2020-08-25, taking as 0 the mobility on the first day of the interval. We got data for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. The 2 red lines represent the 2 dates were we can statistically consider a mobility drop and then a normality comeback. Also, a smoothed curve of each mobility signal can be displayed by clicking on the button at the bottom of the plot.  
 
 <div align="center">
 <iframe
