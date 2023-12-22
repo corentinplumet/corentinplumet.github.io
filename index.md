@@ -223,5 +223,3 @@ For strategy games, the post-adjustment analysis indicated a clear preference in
 Summarizing, French and Italian gamers shared similar tastes during the pandemic, with the French leaning towards action and adult games, while Italians showed less interest in adult games. Japanese gamers favored strategy and adult games and showed little enthusiasm for other genres. Germans appeared to prefer strategy and miscellaneous games, with a significant inclination towards the latter.
 
 To probe the reasons behind these preferences, we considered societal openness to sexual content by referencing Pornhub viewership rankings. Given the similar population sizes of France, Germany, and Italy, and Japan's slightly higher population, these rankings provide insight into national attitudes towards sex-related topics. France's higher ranking compared to Italy and Germany aligns with the interest in adult games during the pandemic. Interestingly, despite Germany's larger population, it has lower Pornhub traffic than Italy, further correlating with our gaming data.
-
-
