@@ -304,7 +304,7 @@ First up, chess games. You can almost see the spike in interest during the lockd
 But here's the problem: chess might not be our best indicator for this study. Why? Its popularity exploded in recent years, skewing our data (thanks mostly to Magnus Carlsen and Gotham Chess).
 
 <p align="center">
-  <img src="/assets/img/chesscom.png" />
+  <img src="/assets/img/JUSTE_CHESS.png" />
 </p>
 
 This is why in the next analysis, we're shifting our focus to more traditional board games, ones that have stood the test of time.
@@ -317,7 +317,7 @@ As we take a look at some classic board games, a pattern emerges for weekends, a
 
 Next, we're embarking on a journey to analyze 20 beloved board games. Our mission? To study the patterns surrounding these games. How often do people look them up on Wikipedia? Take a look at the change in Risk's change in page views. Get ready for some eye-opening insights!
 
-![Branching](/assets/img/boardgamesglobal.png)
+![Branching](/assets/img/VOILA_STP.png)
 
 This investigation offers a captivating look into how the interest for board games has changed during these unprecedented times. In the next section of the study, we will embark on an exploration of 20 popular board games. Our objective? To decode the patterns of interest surrounding them. By tracking the total number of views these board games received on Wikipedia, we aim to uncover intriguing insights! 
 
