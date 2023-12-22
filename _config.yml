@@ -20,9 +20,9 @@ author: Team goodgradeplease2023
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Resources:
-    - Dataset: "https://beautifuljekyll.com"
+    - Chess plot: "https://www.chess.com/article/view/chesscom-reaches-100-million-members"
+    - Personnality: "https://www.16personalities.com/country-profiles/germany"
     
 ################
 # --- Logo --- #
