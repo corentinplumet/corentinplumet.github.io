@@ -303,6 +303,10 @@ First up, chess games. You can almost see the spike in interest during the lockd
 
 But here's the problem: chess might not be our best indicator for this study. Why? Its popularity exploded in recent years, skewing our data (thanks mostly to Magnus Carlsen and Gotham Chess).
 
+<p align="center">
+  <img src="/assets/img/JUSTE_CHESS.png" />
+</p>
+
 This is why in the next analysis, we're shifting our focus to more traditional board games, ones that have stood the test of time.
 
 ## Board Games: A Window into People's Lives
