@@ -116,7 +116,7 @@ We can see a strange effect. The mobility curve and the video games attention cu
 
 # What about specific types of video games ? 
 
-Now that we have seen what is the overall relationship between videogames interest and the mobility decrease, let's get specific and dive further in the video games part of the analysis. There are many type of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what are the trends amongst all the types. The following part analyse French, Japanese, and German growth in pageviews across gaming categories. These three nations are becoming our focal point due to their distinct lockdown measures, geographic placement, and cultural differences, offering a rich ground for analysis.
+Now that we have seen what is the overall relationship between videogames interest and the mobility decrease, let's get specific and dive further in the video games part of the analysis. There are many type of video games and even though they are, as a group, correlated with the mobility not all of them might share the same link with it. By assigning each page to a video game genre, we can try to see what are the trends amongst all the types. The following part analyse French, Japanese, Italian and German growth in pageviews across gaming categories. These four nations are becoming our focal point due to their distinct lockdown measures, geographic placement, and cultural differences, offering a rich ground for analysis.
 
 ## Overview
 
@@ -180,7 +180,7 @@ Looking at the initial naive analysis, we noted that strategy games were uniform
 
 To refine our understanding, we applied a Google causal impact analysis and adjusted pageviews by the total Wikipedia views in respective languages. This adjustment revealed significant shifts, indicating that overall Wikipedia traffic was a factor to be considered.
 
-For strategy games, the post-adjustment analysis indicated a clear preference in Japan and Germany during the pandemic. In contrast, the impact on action games was much more pronounced in France, with the effects in Japan and Germany not being statistically significant. French players showed a marked preference for adult games, whereas German players seemed to have little interest in this genre. Miscellaneous games, on the other hand, showed a compelling trend: Japan had a minimal relative impact, while Germany demonstrated a strong affinity for this category.
+For strategy games, the post-adjustment analysis indicated a clear preference in Japan and Germany during the pandemic. In contrast, the impact on action games was much more pronounced in France and Italy, with the effects in Japan and Germany not being statistically significant. French players showed a marked preference for adult games, whereas German players seemed to have little interest in this genre. Miscellaneous games, on the other hand, showed a compelling trend: Japan had a minimal relative impact, while Germany demonstrated a strong affinity for this category.
 
 <div align="center">
 <iframe
@@ -194,3 +194,5 @@ For strategy games, the post-adjustment analysis indicated a clear preference in
 Summarizing, French and Italian gamers shared similar tastes during the pandemic, with the French leaning towards action and adult games, while Italians showed less interest in adult games. Japanese gamers favored strategy and adult games and showed little enthusiasm for other genres. Germans appeared to prefer strategy and miscellaneous games, with a significant inclination towards the latter.
 
 To probe the reasons behind these preferences, we considered societal openness to sexual content by referencing Pornhub viewership rankings. Given the similar population sizes of France, Germany, and Italy, and Japan's slightly higher population, these rankings provide insight into national attitudes towards sex-related topics. France's higher ranking compared to Italy and Germany aligns with the interest in adult games during the pandemic. Interestingly, despite Germany's larger population, it has lower Pornhub traffic than Italy, further correlating with our gaming data.
+
+![Branching](/assets/img/Ph.png)
