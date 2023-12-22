@@ -203,7 +203,9 @@ For action and strategy games, differing trends suggest a link with national per
 
 Miscellaneous games defy easy categorization by personality or preference but seem to offer an accessible option during lockdowns, especially for those without a strong pre-existing preference for other genres.
 
+<div align="center">
 ![Branching](/assets/img/personalities.png)
+</div>
 
 # To what extent can English Wikipedia pages serve as a reliable estimate of the average video game popularity?
 
@@ -214,7 +216,7 @@ In this section we look at the possibility of english wikipedia pages being able
 In order to find out if English Wikipedia pages can serve as a reliable estimate of the average video game popularity, we used the interventions and global mobility datasets in order to find enough relevant information. Later on we used an API to search for more specific games. As we can see wikipedia is accessed a lot, with a little increase during the COVID-19 lockdown period:
 
 <div align="center">
-  ![Branching](/assets/img/Total_views.png)
+![Branching](/assets/img/Total_views.png)
 </div>
 
 We analyzed the differences between pre-lockdown, lockdown, and normalcy of all the data. We looked at the different mobilities, page views, more specifically, page views in comparison to total page views. To find the relevant pages in the interventions dataset, we had to extract culture -> media -> video games, and then look at the percent usage of wikipedia that was associated with video games. We will see below the relationship between the Enlgish Wikipedia pages and the rest.
@@ -242,9 +244,7 @@ Especially during the COVID-19 lockdown, English spiked a lot more than other co
 
 Before the COVID-19 lockdown, players often played the same games as they didn't have as much time to put into learning new ones. Since higher levels of video games are english speaking, they don't really need to look up their games on wikipedia as they already know it well enough. However during the lockdown, many new games rose to popularity (Among Us, Fall Guys), and these games pushed people to look them up and learn the new games, therefore the spike in english wikipedia pages during the lockdown. On top of that the people that play more often enjoy playing with add-ons to the games, which are almost always solely in English. However the higher level players tend to always return to their game of choice after the hype of the new games die down.
 
-<div align="center">
-  ![Branching](/assets/img/Among_Us.png)
-<div>
+![Branching](/assets/img/Among_Us.png)
 
 Among Us is a great example to showcase this. It's not an accident that there is only information about the engish wikipedia searches for Among Us mid-2020. The vast majority of games are created in Enlgish only and they are then only translated into other languages when, but more importantly if they become more popular. Among Us was released mid 2018, however it gained a bit of popularity when the lockdown happened as a lot of people were home with time to play, often wanting to play fun games together, which Among Us clearly is. However even with this increase with wikipedia searches being in the hundreds didn't warrant for the game to be translated into any other languages, and therefore the lack of wikipedia pages for the game in any other language before it blew up.
 
