@@ -71,13 +71,13 @@ To fulfill this purpose, we will be using the percentage of pageviews for video 
 
 ![Branching](/assets/img/pageviews.png)
 
-After the mobility drop, it seems that certain countries experienced a rise in attention towards video games. To have a better understanding of the meaning of these curves, we will group them following the "lockdown intensity" shown previously in the mobility context.
+After the mobility drop, it appears that certain countries experienced a rise in attention towards video games. To have a better understanding of the meaning of these curves, we will group them following the "lockdown intensity" shown previously in the mobility context.
 
 ![Branching](/assets/img/pageviews_cluster.png)
 
 ## But is there a correlation...
 
-In the previous part, we saw that there might be an increase in the proportion of views for video games related pages after the mobility drop. To get a representation of this increase, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
+In the previous part, we saw that there might be an increase in the proportion of views for video games related pages after the mobility drop. To get a representation of this shift in attention, we can plot the relative proportion increase between the pre-lockdown and post-lockdown period.
 
 <p align="center">
   <img src="/assets/img/medianpercentage.png" />
