@@ -230,8 +230,8 @@ Take a look at the graph below, unsurprisingly, the lockdown in Great Britain is
 <div align="center">
 <iframe
   src="/assets/img/average_mobility.html"
-  width = 800
-  height = 550
+  width = 950
+  height = 800
   style="border:none;"
 ></iframe>
 </div>
@@ -278,7 +278,7 @@ We could also look at the fact that england had a semi-restrictive lockdown and 
 <iframe
   src="/assets/img/mobility.html"
   width = 800
-  height = 550
+  height = 600
   style="border:none;"
 ></iframe>
 </div>
