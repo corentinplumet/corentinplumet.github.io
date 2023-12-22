@@ -128,7 +128,7 @@ The following part analyse French, Japanese, and German growth in pageviews acro
 <iframe
   src="/assets/img/france.html"
   width = 550
-  height = 800
+  height = 850
   style="border:none;"
 ></iframe>
 </div>
@@ -141,7 +141,7 @@ The French government implemented a strict lockdown on March 17, 2020, initially
 <iframe
   src="/assets/img/germany.html"
   width = 550
-  height = 800
+  height = 850
   style="border:none;"
 ></iframe>
 </div>
@@ -154,7 +154,7 @@ Compared to its bordering country France, Germany has less restriction on the fr
 <iframe
   src="/assets/img/japan.html"
   width = 550
-  height = 800
+  height = 850
   style="border:none;"
 ></iframe>
 </div>
