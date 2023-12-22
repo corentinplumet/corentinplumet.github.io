@@ -111,8 +111,8 @@ Now that we have seen what is the overall relationship between videogames intere
 <div align="center">
 <iframe
   src="/assets/img/france.html"
-  width = 1000
-  height = 1000
+  width = 550
+  height = 900
   style="border:none;"
 ></iframe>
 </div>
@@ -124,8 +124,8 @@ The French government implemented a strict lockdown on March 17, 2020, initially
 <div align="center">
 <iframe
   src="/assets/img/germany.html"
-  width = 1000
-  height = 1000
+  width = 550
+  height = 900
   style="border:none;"
 ></iframe>
 </div>
@@ -137,8 +137,8 @@ Compared to its bordering country France, Germany has less restriction on the fr
 <div align="center">
 <iframe
   src="/assets/img/japan.html"
-  width = 1000
-  height = 1000
+  width = 550
+  height = 900
   style="border:none;"
 ></iframe>
 </div>
