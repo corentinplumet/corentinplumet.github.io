@@ -32,7 +32,6 @@ Also, the following graph plots for each day the total main genre pageviews diff
 ></iframe>
 </div>
 
-
 # Lockdown and overall video games interest: a relation ?
 
 In this part, we are going to discuss the relation (or not) between the different type of lockdown around the world, and their possible impact on people's interest for video games. 
@@ -131,7 +130,7 @@ The French government implemented a strict lockdown on March 17, 2020, initially
 ></iframe>
 </div>
 
-Compared to its bordering country France, Germany has less restriction on the free move of the people, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia. Overall, there is minor increased popularity in games, but it is obviously milder than that in France. Regarding to different game genres, RPG, Stimulation, Sports and Strategy enjoy the most gain from the lockdown, but if you compared it to other same genres in France, it is definitely a smaller gain.
+Compared to its bordering country France, Germany has less restriction on the free move of the people, leading to less mobility decrease in Germany. Thus people actually spend less time at home and play games, and there is less increase in the pageviews of games in German-version Wikipedia. Overall, there is minor increased popularity in games, but it is obviously milder than that in France. Regarding to different game genres, RPG, Stimulation, Sports and Strategy enjoy the most gain from the lockdown, but if you compared it to other same genres in France, it is definitely a smaller gain. Interestingly, the Miscellaneous games have the most gain during the lockdown time. And the Stimulation and Strategy games are also quite popular, while the Action games actually have no interest increase.
 
 ### Japan – We Play Games for Passion
 
@@ -144,4 +143,4 @@ Compared to its bordering country France, Germany has less restriction on the fr
 ></iframe>
 </div>
 
-Japan didn't suffer from first wave of the pandemic, leaving thus the mobility disruption at the minimum level. In this case, people enjoy more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government. However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. And the popularity seems to last longer than expected after the intervention is over. We believe there is an explanation that since the mobility is not changed sharply, the popularity in the games can last longer since people are not "forced" to play games, instead they are actually like video games. Therefore, there is some evidence that the game industry in Japan actually benefits from covid in a longer time span.
+Japan didn't suffer from first wave of the pandemic, leaving thus the mobility disruption at the minimum level. In this case, people enjoy more freedom moving around and the mobility data seems much more normal compared to France and Germany. In this case, the popularity in games is not forcefully increased due to the intervention from the government. However, there are still some minor gains in the game of Multiplayer/Online, Puzzle, Sports and Strategy. The Amine-theme games, which are supposed to be popular in Japan, have surprisingly not attained enough interest gain during the lockdown period. And there is similar phenomenon like that in Germany, that game players in Japan actually have more interest in games about miscellaneous and puzzles Also the popularity seems to last longer than expected after the intervention is over. We believe there is an explanation that since the mobility is not changed sharply, the popularity in the games can last longer since people are not "forced" to play games, instead they are actually like video games. Therefore, there is some evidence that the game industry in Japan actually benefits from covid in a longer time span.
