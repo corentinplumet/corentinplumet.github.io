@@ -287,7 +287,6 @@ We could also look at the fact that england had a semi-restrictive lockdown and 
 ></iframe>
 </div>
 
-
 In summary, we found that by toning down the English Wikipedia pages, making it less volatile, we can accurately predict the worldwide average Wikipedia pages. Furthermore by looking more closely at specific games, we can see how English is often the first to follow a trend and therefore ride the "hype" longer, but crash more afterwards, explaining why it is often more volatile. English is also very commonly first to follow the "hype" of a new game as newer games are nearly exclusively made in english, and the other languages are added later on if the game takes off.
 
 # Video games? Not the only type of games to entertain!
