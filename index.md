@@ -92,7 +92,7 @@ We can see that there is a clear tendancy of increase in attention towards video
 ></iframe>
 </div>
 
-The boxplot above gives us another distribution view of the attention shift. Thanks to the confidence interval of 95% percent, we can confirm our previous analysis. Indeed, we see that the "restrictive" group confidence intervals overlap with the 2 other, but the "very restrive" group and "unrestrictive" group don't overllap. Also the overlap for the "restrictive" and "unrestrictive lockdown" are really small. 
+The boxplot above gives us another distribution view of the attention shift. Thanks to the confidence interval of 95% percent, we can confirm our previous analysis. Indeed, we see that the "restrictive" group confidence intervals overlap with the 2 other, but the "very restrictive" group and "unrestrictive" group don't overllap. Also the overlap for the "restrictive" and "unrestrictive lockdown" are really small. We can note that the odd shape of the box (the confidence interval being larger than the 1st to 3rd quartile interval) is due to the small number of point in our samples.
 
 But is really this attention shift towards video games correlated to the mobility of people inside this country ? To answer this question, we can plot the correlation coefficient between the mobility time series and the wikipedia pegeviews time series. We get this plot:
 
