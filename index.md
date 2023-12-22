@@ -1,4 +1,4 @@
----
+x---
 layout: home
 title: Covid-eo Games
 subtitle: Analysis of the Covid-19 lockdown impact on the interest towards video games
@@ -299,13 +299,9 @@ In the following section we will discuss the shift in attention towards board ga
 
 First up, chess games. You can almost see the spike in interest during the lockdowns on our charts. Weekends are particularly interesting because they often align with peaks in online searches. Let's take a look at the change in pageviews of chess.
 
-![Branching](/assets/img/chess_graph.png)
+![Branching](/assets/img/JUSTE_CHESS.png)
 
 But here's the problem: chess might not be our best indicator for this study. Why? Its popularity exploded in recent years, skewing our data (thanks mostly to Magnus Carlsen and Gotham Chess).
-
-<p align="center">
-  <img src="/assets/img/JUSTE_CHESS.png" />
-</p>
 
 This is why in the next analysis, we're shifting our focus to more traditional board games, ones that have stood the test of time.
 
