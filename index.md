@@ -85,14 +85,7 @@ We can see that there is clear tendancy of increase in attention toward video ga
 
 But is really this attention shift towards video games correlated to the mobility of people inside this country ? To answer this question, we can plot the correlation coefficient between the mobility time series and the wikipedia pegeviews time series. We get this plot:
 
-<div align="center">
-<iframe
-  src="/assets/img/pearson.html"
-  width = 800
-  height = 400
-  style="border:none;"
-></iframe>
-</div>
+![Branching](/assets/img/correlation_coeff_plot.png)
 
 According to this graph, the intensity of lockdown doesn't have an impact on the correlation value. Indeed, Japn and Korea that belongs to the group of unrestrictive lockdown have a high negative correlation that is statistically significant, as the the countries that belongs to the other groups.
 
