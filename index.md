@@ -225,7 +225,7 @@ Take a look at the graph below, unsurprisingly, the lockdown in Great Britain is
 <iframe
   src="/assets/img/average_mobility.html"
   width = 950
-  height = 600
+  height = 625
   style="border:none;"
 ></iframe>
 </div>
@@ -248,7 +248,7 @@ This really is a great example of how the game has to gain in popularity in engl
 <iframe
   src="/assets/img/percent_pageviews.html"
   width = 850
-  height = 700
+  height = 675
   style="border:none;"
 ></iframe>
 </div>
