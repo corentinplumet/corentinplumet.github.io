@@ -195,14 +195,16 @@ Summarizing, French and Italian gamers shared similar tastes during the pandemic
 
 To probe the reasons behind these preferences, we considered societal openness to sexual content by referencing Pornhub viewership rankings. Given the similar population sizes of France, Germany, and Italy, and Japan's slightly higher population, these rankings provide insight into national attitudes towards sex-related topics. France's higher ranking compared to Italy and Germany aligns with the interest in adult games during the pandemic. Interestingly, despite Germany's larger population, it has lower Pornhub traffic than Italy, further correlating with our gaming data.
 
+<div align="center">
 ![Branching](/assets/img/Ph50.png)
+</div>
 
 For action and strategy games, differing trends suggest a link with national personality tendencies. For instance, the MBTI personality index suggests that the French, being more Extraverted and Observant, may prefer action-oriented games that engage their senses over strategic thinking.
 
 Miscellaneous games defy easy categorization by personality or preference but seem to offer an accessible option during lockdowns, especially for those without a strong pre-existing preference for other genres.
 
 <div align="center">
-![Branching](/assets/img/personalities.jpg)
+  ![Branching](/assets/img/personalities.png)
 </div>
 
 # To what extent can English Wikipedia pages serve as a reliable estimate of the average video game popularity?
