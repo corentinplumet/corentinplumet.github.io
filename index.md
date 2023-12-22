@@ -195,17 +195,13 @@ Summarizing, French and Italian gamers shared similar tastes during the pandemic
 
 To probe the reasons behind these preferences, we considered societal openness to sexual content by referencing Pornhub viewership rankings. Given the similar population sizes of France, Germany, and Italy, and Japan's slightly higher population, these rankings provide insight into national attitudes towards sex-related topics. France's higher ranking compared to Italy and Germany aligns with the interest in adult games during the pandemic. Interestingly, despite Germany's larger population, it has lower Pornhub traffic than Italy, further correlating with our gaming data.
 
-<div align="center">
 ![Branching](/assets/img/Ph50.png)
-</div>
 
 For action and strategy games, differing trends suggest a link with national personality tendencies. For instance, the MBTI personality index suggests that the French, being more Extraverted and Observant, may prefer action-oriented games that engage their senses over strategic thinking.
 
 Miscellaneous games defy easy categorization by personality or preference but seem to offer an accessible option during lockdowns, especially for those without a strong pre-existing preference for other genres.
 
-<div align="center">
-  ![Branching](/assets/img/personalities.png)
-</div>
+![Branching](/assets/img/personalities.png)
 
 # To what extent can English Wikipedia pages serve as a reliable estimate of the average video game popularity?
 
@@ -215,9 +211,7 @@ In this section we look at the possibility of english wikipedia pages being able
 
 In order to find out if English Wikipedia pages can serve as a reliable estimate of the average video game popularity, we used the interventions and global mobility datasets in order to find enough relevant information. Later on we used an API to search for more specific games. As we can see wikipedia is accessed a lot, with a little increase during the COVID-19 lockdown period:
 
-<div align="center">
 ![Branching](/assets/img/Total_views.jpg)
-</div>
 
 We analyzed the differences between pre-lockdown, lockdown, and normalcy of all the data. We looked at the different mobilities, page views, more specifically, page views in comparison to total page views. To find the relevant pages in the interventions dataset, we had to extract culture -> media -> video games, and then look at the percent usage of wikipedia that was associated with video games. We will see below the relationship between the Enlgish Wikipedia pages and the rest.
 
@@ -231,7 +225,7 @@ Take a look at the graph below, unsurprisingly, the lockdown in Great Britain is
 <iframe
   src="/assets/img/average_mobility.html"
   width = 950
-  height = 800
+  height = 750
   style="border:none;"
 ></iframe>
 </div>
