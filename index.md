@@ -171,7 +171,7 @@ Looking at the initial naive analysis, we noted that strategy games were uniform
 
 <div align="center">
 <iframe
-  src="/assets/img/q4_naive_analysis.html"
+  src="/assets/img/navie.html"
   width = 800
   height = 800
   style="border:none;"
@@ -186,34 +186,7 @@ For strategy games, the post-adjustment analysis indicated a clear preference in
 
 <div align="center">
 <iframe
-  src="/assets/img/Stratage.html"
-  width = 800
-  height = 800
-  style="border:none;"
-></iframe>
-</div>
-
-<div align="center">
-<iframe
-  src="/assets/img/Action.html"
-  width = 800
-  height = 800
-  style="border:none;"
-></iframe>
-</div>
-
-<div align="center">
-<iframe
-  src="/assets/img/Adult.html"
-  width = 800
-  height = 800
-  style="border:none;"
-></iframe>
-</div>
-
-<div align="center">
-<iframe
-  src="/assets/img/Miscellaneous.html"
+  src="/assets/img/casual.html"
   width = 800
   height = 800
   style="border:none;"
