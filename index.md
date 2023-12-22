@@ -4,8 +4,7 @@ title: Covid-eo Games
 subtitle: Analysis of the Covid-19 lockdown impact on the interest towards video games
 ---
 
-Hello everybody
-Have you ever wondered if the COVID-19 had more impact on you than just the sudden urge to become an expert in Zoom? Or did you spend the most of your time training to become the last survivor on the fortnite Island? If the answer is yes this article is for you because we are going to reveal the mysterious connection between the pandemic and the video games industry. The mission is to understand the relationship between global lockdown experiences, varying in intensity, and the consequent shifts in attention towards video games. Our study aims not only to decrypt the impact of lockdown measures but also to discern whether distinct genres of games underwent differential changes during this period.
+Hi Have you ever wondered if the COVID-19 had more impact on you than just the sudden urge to become an expert in Zoom? Or did you spend the most of your time training to become the last survivor on the fortnite Island? If the answer is yes this article is for you because we are going to reveal the mysterious connection between the pandemic and the video games industry. The mission is to understand the relationship between global lockdown experiences, varying in intensity, and the consequent shifts in attention towards video games. Our study aims not only to decrypt the impact of lockdown measures but also to discern whether distinct genres of games underwent differential changes during this period.
 
 This article contains many interactive visualizations. Don't forget to use them to be sure to understand all the important informations. Let's get started, it's about to get real (or at least virtually real)!
 
