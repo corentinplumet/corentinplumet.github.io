@@ -297,11 +297,11 @@ In the following section we will discuss the shift in attention towards board ga
 
 ## Chess Games: A Trend or an Anomaly?
 
-First up, chess games. You can almost see the spike in interest during the lockdowns on our colorful charts. Weekends are particularly interesting – they often align with peaks in online searches. Feel free to change the cursor to view the evolution of different variants of chess:
+First up, chess games. You can almost see the spike in interest during the lockdowns on our charts. Weekends are particularly interesting because they often align with peaks in online searches. Let's take a look at the change in pageviews of chess.
 
 ![Branching](/assets/img/chess_graph.png)
 
-But here's the twist: chess might not be our best indicator for this study. Why? Its popularity exploded in recent years, skewing our data. 
+But here's the problem: chess might not be our best indicator for this study. Why? Its popularity exploded in recent years, skewing our data (thanks mostly to Magnus Carlsen and Gotham Chess).
 
 <p align="center">
   <img src="/assets/img/chesscom.png" />
@@ -311,11 +311,11 @@ This is why in the next analysis, we're shifting our focus to more traditional b
 
 ## Board Games: A Window into People's Lives
 
-As we take a look at some classic board games, a pattern emerges. Weekends present an increase in Wikipedia visits. But there's more to be studied – during lockdowns, these games saw a noticeable increase in interest on Wikipedia's website. It's as if they became a go-to source of entertainment during those challenging times.
+As we take a look at some classic board games, a pattern emerges for weekends, as they present an increase in Wikipedia visits. But there's more to be studied: during lockdowns, these games saw a noticeable increase in interest on Wikipedia's website. It's as if they became a go-to source of entertainment during those challenging times.
 
 ### Uncovering Board Game Trends: An Analytical Adventure
 
-Next, we're embarking on a journey to analyze 20 beloved board games. Our mission? To unravel the excitement and patterns surrounding these games. How often do people look them up on Wikipedia? You can here again change the game displayed as well as the language of the Wikipedia page. Get ready for some eye-opening insights!
+Next, we're embarking on a journey to analyze 20 beloved board games. Our mission? To study the patterns surrounding these games. How often do people look them up on Wikipedia? Take a look at the change in Risk's change in page views. Get ready for some eye-opening insights!
 
 ![Branching](/assets/img/boardgamesglobal.png)
 
@@ -323,22 +323,22 @@ This investigation offers a captivating look into how the interest for board gam
 
 ![Branching](/assets/img/testbd.png)
 
-This plot reveals a remarkable story, particularly evident during the COVID-19 era: the increasing popularity of board games. During these times, board games captured the public's imagination, eclipsing the general interest in Wikipedia's diverse topics. 
+This plot reveals a remarkable story, particularly evident during the COVID-19 era: the increasing popularity of board games. During these times, board games captured the public's attention, along with the general interest in Wikipedia's diverse topics. 
 
-The plot thickens as we delve deeper. Our attention is irresistibly drawn to a staggering peak that emerges in late 2021. This spike stands out like a lighthouse in a sea of data, signaling a period of heightened fascination. What extraordinary events unfolded during this enigmatic year-end? As we inch closer to unraveling this puzzle, we find ourselves on the cusp of uncovering something extraordinary. The anticipation builds as we prepare to delve into the depths of this unique period, eager to decode the secrets behind this unprecedented surge in board game popularity.
+There is a peak that emerges in the end of 2021. This spike stands signals a period of heightened fascination. Maybe people were eager to spend time with their families playing their favourites board games? What extraordinary events unfolded during this year-end? As we get closer to resolving this mystery, we find ourselves on the edge of uncovering something fascinating.
 
 ## Predictive Modeling: Peering into the Future of Board Games
 
-Here's where things get really interesting. We're using a user-friendly, LSTM-based neural network to predict the future popularity of board games. Think of it as a time machine that uses 20 days of Wikipedia data to foresee trends. We'll be comparing 'normal' times with the pandemic period to see if board games truly became the stars of family entertainment.
+Now we're things are going to get even more interesting as we're going to use a user-friendly neural network model to predict the future popularity of board games. We will be using the 20 days surrounding to predict the pageviews for boardgames.We'll be comparing 'normal' times with the pandemic period to see if board games truly became the stars of family entertainment.
 
-But why stop there? We're on a mission to uncover something special. We'll train our model using data up until 2020, giving it a sense of what "normal" looks like for board game interest. Then, the real magic begins. We'll put this trained model to the test during the COVID-19 pandemic, a time when people turned to board games for family fun.
-The burning question is whether board games experienced a surge in interest, not just because of Wikipedia's overall popularity, but because families across the globe rediscovered the joy of board game nights.
+But why stop there? We're on a mission to uncover something special. We'll train our model using data up until 2020, giving it a sense of what "normal" days look like for board game interest. Then, the real magic begins. We'll put this trained model to the test after the begining the COVID-19 pandemic, a time when people turned to board games for family fun.
+The question is whether board games experienced a surge in interest, not just because of Wikipedia's overall popularity, but because families across the globe rediscovered the joy of board game nights.
 
 ![Branching](/assets/img/actual_vs_predicted.png)
 
 The Story Told by Graphs: Board Games in the Limelight
 
-Our graphs sing a fascinating tune, showing how board games danced along with global Wikipedia trends. The lockdown period, however, reveals something extraordinary. Board games stepped into the spotlight, with their popularity climbing higher than expected. As we approached the 2021 year-end festivities, this trend became even more pronounced. It's a heartwarming sign of families coming together, embracing the joy of board games.
+Our graphs sing a fascinating tune, showing how board games danced along with global Wikipedia trends. The lockdown period, however, reveals something extraordinary. Board games experienced an increase in interest, their popularity climbing higher than expected. As we approached the 2021 year-end festivities, this trend became even more pronounced. It's a heartwarming sign of families coming together, embracing the joy of board games, spending quality time together after some tough times.
 
 # Conclusion
 
