@@ -1,4 +1,4 @@
-x---
+---
 layout: home
 title: Covid-eo Games
 subtitle: Analysis of the Covid-19 lockdown impact on the interest towards video games
