@@ -1,3 +1,3 @@
 # Covideo-Games Website
 
-See the wbsite at corentinplumet.github.io
+See the website at corentinplumet.github.io
